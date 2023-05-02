@@ -10,7 +10,7 @@ AI and image learning map
 | [Deep Network Designer(開發深度學習架構，並且進行訓練)](https://youtu.be/AQw3DC7FK1Y "link") | [@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")| 
 
 分離  
-測試分離  
+   
 | **深度學習影像入門：分類與遷式學習** | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之一(Classification)](https://youtu.be/5kvmg2uCpdE "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
