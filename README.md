@@ -111,7 +111,8 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-**深度學習影像進階：未來更新內容:** 
+
+## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
 
 10.1 深度學習進階(架構設計)＠DL_Exten系列 
 
