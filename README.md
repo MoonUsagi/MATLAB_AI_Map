@@ -23,6 +23,7 @@ AI and image learning map
 分離  
    
 | **深度學習影像進階：分類可視化** | GiuHub專案 |
+|------|:---:|
 |[MATLAB深度學習之九(1)深度學習分類可視化：什麼是模型可視化](https://youtu.be/XpnCzsBvMQQ "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之九(2)深度學習分類可視化：Deep Dream](https://youtu.be/zDbv-fNAvn4 "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之九(3)深度學習分類可視化：GradCam](https://youtu.be/30t-ARZNDjA "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
