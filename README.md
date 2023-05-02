@@ -75,6 +75,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 ## Deep Learning Image Semantic Segmentation <a name="ImageSemanticSegmentation"/>
 
 **深度學習影像進階：語意分割:**  
+
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之七(1)RabbitDetect語意分割篇：資料標記](https://youtu.be/ZKXTZ0RCYWg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
@@ -84,7 +85,10 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-**深度學習影像進階：實例分割:**  
+## Deep Learning Image Instance Segmentation <a name="ImageSemanticSegmentation"/>
+
+**深度學習影像進階：實例分割:** 
+
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |||
