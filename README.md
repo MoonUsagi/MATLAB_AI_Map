@@ -51,12 +51,12 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 **深度學習影像進階：分類可視化**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之九(1)深度學習分類可視化：什麼是模型可視化](https://youtu.be/XpnCzsBvMQQ "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(2)深度學習分類可視化：Deep Dream](https://youtu.be/zDbv-fNAvn4 "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(3)深度學習分類可視化：GradCam](https://youtu.be/30t-ARZNDjA "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(4)深度學習分類可視化：Gradient Attribution](https://youtu.be/cliegS5uZuc "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(5)深度學習分類可視化：LIME](https://youtu.be/SsUwRYGRt7E "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(6)深度學習分類可視化：Occlusion](https://youtu.be/AdV-Ii0hfxM "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之九(1)深度學習分類可視化：什麼是模型可視化](https://youtu.be/XpnCzsBvMQQ "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之九(2)深度學習分類可視化：Deep Dream](https://youtu.be/zDbv-fNAvn4 "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之九(3)深度學習分類可視化：GradCam](https://youtu.be/30t-ARZNDjA "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之九(4)深度學習分類可視化：Gradient Attribution](https://youtu.be/cliegS5uZuc "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之九(5)深度學習分類可視化：LIME](https://youtu.be/SsUwRYGRt7E "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之九(6)深度學習分類可視化：Occlusion](https://youtu.be/AdV-Ii0hfxM "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
