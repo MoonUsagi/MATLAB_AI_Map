@@ -47,3 +47,28 @@ If you already have a basic understanding and know how to download models from t
 |[MATLAB深度學習之九(5)深度學習分類可視化：LIME](https://youtu.be/SsUwRYGRt7E "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之九(6)深度學習分類可視化：Occlusion](https://youtu.be/AdV-Ii0hfxM "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 
+
+## Deep Learning Image Object Detection <a name="ImageObjectDetection"/>
+
+**深度學習影像進階：物件偵測:**  
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB深度學習之五(進階標記方式)](https://youtu.be/ISzFfL-W9AE "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(1)RabbitDetect物件偵測篇：資料庫介紹](https://youtu.be/6gHTFQeD8Xw "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(2)RabbitDetect物件偵測篇：標記與如何載入其他格式標記檔案](https://youtu.be/g9S0_VSfkFQ "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(3)RabbitDetect物件偵測篇：FasterRCNN](https://youtu.be/uXkvQup0pe0 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(4)RabbitDetect物件偵測篇：SSD](https://youtu.be/VxssEJBObas "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(5)RabbitDetect物件偵測篇：YOLOv2](https://youtu.be/VC5pRCv_QCo "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(6)RabbitDetect物件偵測篇：YOLOv3](https://youtu.be/CT8diNnOkXs "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(7)RabbitDetect物件偵測篇：YOLOv4](https://youtu.be/glXUnqScaGc "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[使用五行程式碼，快速執行YOLOv4於MATLAB中：YOLOv4](https://youtu.be/hJrZg94y8vA "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(8)RabbitDetect物件偵測篇：自定義YOLOv4架構：YOLOv4](https://youtu.be/Wzes49qzwCM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+
+
+
+
+
+
+
