@@ -1,8 +1,16 @@
 # AI_Images_Map
 AI and image learning map  
 
+### Deep Learning
+
+* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#ImageClassification)
+* [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#ImageObjectDetection)
+* [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#ImageSemanticSegmentation)
+* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#ImageClassification)
+
 [@DL_C = DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
-[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+
+[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link") 
 
 ## Deep Learning Image Classification <a name="ImageClassification"/>
 剛入門要踏入深度學習時，可以先藉由這幾個影片與程式碼專案開始學起，第一部分初始介紹為告訴如何快速使用深度學習模型。 
@@ -85,14 +93,17 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-## Deep Learning Image Instance Segmentation <a name="ImageSemanticSegmentation"/>
+## Deep Learning Image Instance Segmentation <a name="ImageInstanceSegmentation"/>
 
 **深度學習影像進階：實例分割:** 
 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|||
-|||
+|[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 

@@ -1,8 +1,16 @@
 # AI_Images_Map
 AI and image learning map  
 
+### Deep Learning
+
+* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#ImageClassification)
+* [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#ImageObjectDetection)
+* [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#ImageSemanticSegmentation)
+* [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#ImageInstanceSegmentation)
+
 [@DL_C = DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
-[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+
+[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link") 
 
 ## Deep Learning Image Classification <a name="ImageClassification"/>
 剛入門要踏入深度學習時，可以先藉由這幾個影片與程式碼專案開始學起，第一部分初始介紹為告訴如何快速使用深度學習模型。 
@@ -85,7 +93,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-## Deep Learning Image Instance Segmentation <a name="ImageSemanticSegmentation"/>
+## Deep Learning Image Instance Segmentation <a name="ImageInstanceSegmentation"/>
 
 **深度學習影像進階：實例分割:** 
 
