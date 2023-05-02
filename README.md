@@ -2,6 +2,7 @@
 AI and image learning map  
 
 [@DL_C = DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
+[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 ## Deep Learning Image Classification <a name="ImageClassification"/>
 剛入門要踏入深度學習時，可以先藉由這幾個影片與程式碼專案開始學起，第一部分初始介紹為告訴如何快速使用深度學習模型。 
@@ -69,8 +70,25 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 |[MATLAB深度學習之六(8)RabbitDetect物件偵測篇：自定義YOLOv4架構：YOLOv4](https://youtu.be/Wzes49qzwCM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
+**深度學習影像進階：語意分割:**  
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB深度學習之七(1)RabbitDetect語意分割篇：資料標記](https://youtu.be/ZKXTZ0RCYWg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之七(2)RabbitDetect語意分割篇：標記與載入其他格式檔案](https://youtu.be/11DiP35W-dg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(上篇)](https://youtu.be/v02Np1_q08o "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(下篇)](https://youtu.be/LzbrKeMOnDY "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+
+**深度學習影像進階：實例分割:**  
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|||
+|||
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 
 
