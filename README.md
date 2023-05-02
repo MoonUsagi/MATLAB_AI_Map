@@ -72,6 +72,8 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
+## Deep Learning Image Semantic Segmentation <a name="ImageSemanticSegmentation"/>
+
 **深度學習影像進階：語意分割:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
