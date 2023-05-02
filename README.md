@@ -23,7 +23,8 @@ When you are new to deep learning and want to get started, you can begin by watc
 
 If you already have a basic understanding and know how to download models from the above, you can advance your skills by starting with the following introduction to deep learning for images. This will enable you to progress further in tasks such as single image classification, multiple image classification, training your own classification model from scratch, and using transfer learning to rapidly train a new model. 
 
-| **深度學習影像入門：分類與遷移式學習** | GiuHub專案 |
+**深度學習影像入門：分類與遷移式學習**
+| Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之一(Classification)](https://youtu.be/5kvmg2uCpdE "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之二(Classification)](https://youtu.be/nNCa8rU5Jms "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
@@ -31,10 +32,13 @@ If you already have a basic understanding and know how to download models from t
 |[MATLAB深度學習之四(上)(Transfer Learning)](https://youtu.be/v0ZwOiQhpi4 "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之四(中)(Transfer Learning)](https://youtu.be/YUY2KhgGWuw "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之四(下)(Transfer Learning)](https://youtu.be/s8JfMbs_CSw "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-  
+
+------
+
 將已經訓練好的模型可視化吧！產生模型的熱圖，了解模型到底看到了什麼，才會做出此分類的辨識結果。　　
-   
-| **深度學習影像進階：分類可視化** | GiuHub專案 |
+
+**深度學習影像進階：分類可視化**
+| Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之九(1)深度學習分類可視化：什麼是模型可視化](https://youtu.be/XpnCzsBvMQQ "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之九(2)深度學習分類可視化：Deep Dream](https://youtu.be/zDbv-fNAvn4 "link")|[@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
