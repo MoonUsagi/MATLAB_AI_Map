@@ -8,7 +8,8 @@ AI and image learning map
 
 When you are new to deep learning and want to get started, you can begin by watching these videos and exploring the code repository. The initial introduction in the first part will guide you on how to quickly use deep learning models. 
 
-| **深度學習初始介紹** | GiuHub專案 |
+**深度學習初始介紹:**  
+| Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 | [在MATLAB中安裝Pretrained Deep Learning Mode](https://youtu.be/ZPCNmTxV5K8 "link")| [@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") |
 | [使用五行程式碼，快速在MATLAB中使用深度學習模型](https://www.youtube.com/watch?v=fjjnGmvZxc0 "link")| [@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") |
