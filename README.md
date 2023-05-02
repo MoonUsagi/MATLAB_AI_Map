@@ -112,23 +112,24 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 **深度學習影像進階：未來更新內容:** 
-10.1 深度學習進階(架構設計) 
 
-10.2 深度學習進階(自定義層) 
+10.1 深度學習進階(架構設計)＠DL_Exten系列 
 
-10.3 深度學習進階(Auto Labeling) 
+10.2 深度學習進階(自定義層)＠DL_Exten系列 
 
-11.1文字辨識(Text Detection) 
+10.3 深度學習進階(Auto Labeling)＠DL_Exten系列 
 
-11.2OCR系統 
+11.1文字辨識(Text Detection)＠AOI_Lab系列  
 
-11.3BarCode檢測 
+11.2OCR系統＠AOI_Lab系列  
 
-12.1 影像異常偵測 
+11.3BarCode檢測＠AOI_Lab系列 
 
-13.1 Image Captioning
+12.1 影像異常偵測＠DL_Exten系列  
 
-13.2 GAN(生成對抗網路) 
+13.1 Image Captioning＠DL_Exten系列 
+
+13.2 GAN(生成對抗網路)＠DL_Exten系列 
 
 
 
