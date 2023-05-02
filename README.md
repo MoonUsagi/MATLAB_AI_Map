@@ -35,7 +35,9 @@ If you already have a basic understanding and know how to download models from t
 
 ------
 
-將已經訓練好的模型可視化吧！產生模型的熱圖，了解模型到底看到了什麼，才會做出此分類的辨識結果。　　
+將已經訓練好的模型可視化吧！產生模型的熱圖，了解模型到底看到了什麼，才會做出此分類的辨識結果。 
+
+Visualize your trained models! Generate heatmaps to understand what your models are seeing and how they arrive at classification decisions. 
 
 **深度學習影像進階：分類可視化**
 | Youtube影片標題 | GiuHub專案 |
