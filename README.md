@@ -8,9 +8,13 @@ AI and image learning map
 * [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Semantic-Segmentation-)
 * [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Instance-Segmentation-)
 
-[@DL_C = DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
-
-[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link") 
+### Code Project
+* [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
+* [@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link") 
+* [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
+* [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
+* [@AOI_Lab]() 
+* [@DL_Exten]() 
 
 ## Deep Learning Image Classification <a name="ImageClassification"/>
 剛入門要踏入深度學習時，可以先藉由這幾個影片與程式碼專案開始學起，第一部分初始介紹為告訴如何快速使用深度學習模型。 
