@@ -4,9 +4,9 @@ AI and image learning map
 ### Deep Learning
 
 * [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Classification-)
-* [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#ImageObjectDetection)
-* [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#ImageSemanticSegmentation)
-* [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#ImageInstanceSegmentation)
+* [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Object-Detection-)
+* [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Semantic-Segmentation-)
+* [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Instance-Segmentation-)
 
 [@DL_C = DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
 
