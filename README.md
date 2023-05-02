@@ -2,7 +2,7 @@
 AI and image learning map  
 
 剛入門要踏入深度學習時，可以先藉由這幾個影片與程式碼專案開始學起，第一部分初始介紹為告訴如何快速使用深度學習模型。　　
-[@DL_C = DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")
+[@DL_C = DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")　　
 | **深度學習初始介紹** | GiuHub專案 |
 |------|:---:|
 | [在MATLAB中安裝Pretrained Deep Learning Mode](https://youtu.be/ZPCNmTxV5K8 "link")| [@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") |
