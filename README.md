@@ -16,6 +16,8 @@ When you are new to deep learning and want to get started, you can begin by watc
 | [不用寫code，快速在MATLAB中使用Transfer Learning App，來建立屬於你的深度學習模型！](https://youtu.be/7qlJgBoSnKA "link")]   |  [@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")  |
 | [Deep Network Designer(開發深度學習架構，並且進行訓練)](https://youtu.be/AQw3DC7FK1Y "link") | [@DL_C](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")| 
 
+------
+
 如果透過上方已經了解初步概念與已經知道怎麼下載模型時，可以透過以下深度學習影像入門，再進階的完成單張影像的分類、多張影像的分類、自己從零開始訓練一個分類模型、
 使用遷移式學習來快速訓練一個新模型。 
 
