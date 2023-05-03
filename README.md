@@ -155,8 +155,15 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 |------|
 |[實現整合系列第一期:MATLAB中寫Python，與TensorFlow,PyTorch整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610 "link")|
 
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+**MATLAB Integration With Hardware:** 
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB GPU Coder YOLO 口罩偵測實現於Jetson Nano](https://www.youtube.com/watch?v=uBWmpXLGyXE "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
+|[Human Pose Estimation(with Jetson Nano)](https://www.youtube.com/watch?v=_ACXj8rrBtw "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
 
+
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 
 

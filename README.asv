@@ -138,20 +138,33 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 13.2 GAN(生成對抗網路)＠DL_Exten系列 
 
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
+------
 
 ## MATLAB Integration <a name="MATLAB_Integration"/>
 
 **MATLAB Integration With Python:** 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB Integration(1) - 深度學習模型 TensorFlow/PyTorch/ONNX整合](https://www.youtube.com/watch?v=zlpyDuOIsLs "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+|[MATLAB Integration(2) - 在MATLAB中使用Python Code](https://www.youtube.com/watch?v=KBsTRPpvo3M "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+|[MATLAB Integration(3) - 在Python中使用MATLAB](https://www.youtube.com/watch?v=2H57hKkQevE "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+
+| Blog文章標題 |
+|------|
+|[實現整合系列第一期:MATLAB中寫Python，與TensorFlow,PyTorch整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610 "link")|
+
+**MATLAB Integration With Hardware:** 
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+
 
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-
+https://www.youtube.com/watch?v=uBWmpXLGyXE
 
 
 
