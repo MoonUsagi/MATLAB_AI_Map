@@ -257,13 +257,13 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 
 ## Customized APPs <a name="MATLAB_Customized_APPs"/>
-| GiuHub專案 |系列|
-|------|:---:|
-|[ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP "link")||
-|[AIO_Layout](https://github.com/MoonUsagi/AIO_Layout "link")||
-|[Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP "link")|
-|[Image_Captioning](https://github.com/MoonUsagi/Image_Captioning_APP "link")||
-|[Image_Inpainting](https://github.com/MoonUsagi/Image_Inpainting "link")||
+| GiuHub專案 |內容介紹|
+|------|-----|
+|[ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP "link")|不用寫Code實現物件偵測演算法|
+|[AOI_Layout](https://github.com/MoonUsagi/AIO_Layout "link")|不用寫Code實現影像演算法|
+|[Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP "link")|遷移式風格轉換|
+|[Image_Captioning](https://github.com/MoonUsagi/Image_Captioning_APP "link")|影像文字輸出模型|
+|[Image_Inpainting](https://github.com/MoonUsagi/Image_Inpainting "link")|影像修補功能|
 
 
 
