@@ -161,6 +161,10 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 |[MATLAB GPU Coder YOLO 口罩偵測實現於Jetson Nano](https://www.youtube.com/watch?v=uBWmpXLGyXE "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
 |[Human Pose Estimation(with Jetson Nano)](https://www.youtube.com/watch?v=_ACXj8rrBtw "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
 
+| GiuHub專案 |
+|------|
+|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
+|[Jetson_Nano_resnet50](https://github.com/MoonUsagi/Jetson_Nano_resnet50)|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
