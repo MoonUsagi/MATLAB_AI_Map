@@ -259,6 +259,12 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 ## Customized APPs <a name="MATLAB_Customized_APPs"/>
 | GiuHub專案 |系列|
 |------|:---:|
+|[ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP "link")||
+|[AIO_Layout](https://github.com/MoonUsagi/AIO_Layout "link")||
+|[Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP "link")|
+|[Image_Captioning](https://github.com/MoonUsagi/Image_Captioning_APP "link")||
+|[Image_Inpainting](https://github.com/MoonUsagi/Image_Inpainting "link")||
+
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
