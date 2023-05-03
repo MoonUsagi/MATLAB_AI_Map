@@ -19,6 +19,7 @@ AI and image learning map
 * [Customized APPs](https://github.com/MoonUsagi/AI_Images_Map#Customized-APPs-)
 
 ### Image Processing & Computer Vision
+* [IPCV:]
 
 
 ### Code Project
@@ -201,10 +202,17 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 **影像應用系列:** 
 | Youtube影片標題 |系列|
 |------|:---:|
+|[色彩切割(Color Thresholder) ](https://youtu.be/vPB9dl8lMvw "link") |MATLAB三分鐘不用寫Code系列|
+|[影像切割(Image Segmenter)](https://youtu.be/kumg3rujj3U "link") |MATLAB三分鐘不用寫Code系列|
+|[影像分析( Image_Region_Analyzer)](https://youtu.be/4T-zSLD8Eos "link") |MATLAB三分鐘不用寫Code系列|
+|[影像校正(Registration_Estimator)](https://youtu.be/dIP6juyMYFQ "link") |MATLAB三分鐘不用寫Code系列|
+|[影像標記(Image Labeler) ](https://youtu.be/Tq7f_6NOjEU "link") |MATLAB三分鐘不用寫Code系列|
 |[AOI連接相機影像截取工具(Image acquisition)](https://youtu.be/OSY7CdH4w2g "link")]|MATLAB三分鐘不用寫Code系列|
 |[(進階參數設定)AOI連接相機影像截取工具(Image Acquisition)](https://youtu.be/b_UgBJZC4XY "link") |MATLAB三分鐘不用寫Code系列|
 |[影像批次產生工具(Image Batch Processor)](https://youtu.be/RSI86ZFnzsI "link") |MATLAB三分鐘不用寫Code系列|
 |[高光譜影像(Hyperspectral Viewer)](https://youtu.be/vaMoSDypyX4 "link") |MATLAB三分鐘不用寫Code系列|
+
+
 
 **生醫系列:** 
 | Youtube影片標題 |系列|
@@ -229,6 +237,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 **標記(Labeler):** 
 | Youtube影片標題 |系列|
 |------|:---:|
+|[影像標記(Image Labeler) ](https://youtu.be/Tq7f_6NOjEU "link") |MATLAB三分鐘不用寫Code系列|
 |[光達標記工具(Lidar Labeler)](https://youtu.be/CurDmG9rYbI "link")|MATLAB三分鐘不用寫Code系列|
 |[醫學影像標記工具(Medical Image Labeler)](https://youtu.be/Obj8I07mXuY "link")|MATLAB三分鐘不用寫Code系列|
 
@@ -244,8 +253,12 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 |[深度學習超參數搜索(Experiment Manager)](https://youtu.be/NpJwoGspASg "link") |MATLAB三分鐘不用寫Code系列|
 |[GPU使用指南](https://youtu.be/jPbflqw_aww "link") |MATLAB三分鐘不用寫Code系列|
 
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+
 
 ## Customized APPs <a name="MATLAB_Customized_APPs"/>
+| GiuHub專案 |系列|
+|------|:---:|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
