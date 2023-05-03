@@ -148,9 +148,9 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 ------
 
-## MATLAB Integration <a name="MATLAB_Integration"/>
+## MATLAB Integration With Python <a name="MATLAB_Integration_with_python"/>
 
-**MATLAB Integration With Python:** 
+**MATLAB中寫Python，與TensorFlow,PyTorch,ONNX整合:** 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB Integration(1) - 深度學習模型 TensorFlow/PyTorch/ONNX整合](https://www.youtube.com/watch?v=zlpyDuOIsLs "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
@@ -161,6 +161,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 |------|
 |[實現整合系列第一期:MATLAB中寫Python，與TensorFlow,PyTorch整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610 "link")|
 
+## MATLAB Integration With Hardware <a name="MATLAB_Integration_with_hardware"/>
 
 **MATLAB Integration With Hardware:** 
 | Youtube影片標題 | GiuHub專案 |
