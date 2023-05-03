@@ -199,7 +199,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 ## MATLAB Image APPs <a name="MATLAB_Image_APPs"/>
 | Youtube影片標題 |系列|
 |------|:---:|
-|[AOI連接相機影像截取工具(Image acquisition)(https://youtu.be/OSY7CdH4w2g "link")]|MATLAB三分鐘不用寫Code系列|
+|[AOI連接相機影像截取工具](Image acquisition)(https://youtu.be/OSY7CdH4w2g "link")]|MATLAB三分鐘不用寫Code系列|
 |[(進階參數設定)AOI連接相機影像截取工具(Image Acquisition)](https://youtu.be/b_UgBJZC4XY "link") |MATLAB三分鐘不用寫Code系列|
 |[影像批次產生工具(Image Batch Processor)](https://youtu.be/RSI86ZFnzsI "link") |MATLAB三分鐘不用寫Code系列|
 |[點雲檢視工具(Lidar Viewer)](https://youtu.be/87VnsitFVCI "link") |MATLAB三分鐘不用寫Code系列|
