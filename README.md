@@ -10,7 +10,8 @@ AI and image learning map
 
 ### MATLAB Integration
 
-* [Image Classification]()
+* [Integration With Python](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Integration-With-Python-)
+* [Integration With Hardware](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Integration-With-Hardware-)
 
 
 ### Code Project
