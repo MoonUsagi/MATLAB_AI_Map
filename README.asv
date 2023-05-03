@@ -10,7 +10,8 @@ AI and image learning map
 
 ### MATLAB Integration
 
-* [Image Classification]()
+* [Integration With Python](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Integration-With-Python-)
+* [Integration With Hardware(GPU,ARM,FPGA](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Integration-With-Hardware-)
 
 
 ### Code Project
@@ -161,8 +162,13 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 |[MATLAB GPU Coder YOLO 口罩偵測實現於Jetson Nano](https://www.youtube.com/watch?v=uBWmpXLGyXE "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
 |[Human Pose Estimation(with Jetson Nano)](https://www.youtube.com/watch?v=_ACXj8rrBtw "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
 
-| GiuHub專案 |
-|------|
+| 使用工具 | 硬體 | GiuHub專案 |
+|------|------|------|
+|GPU Coder|Jetson Nano|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
+|GPU Coder|Jetson Nano|[Jetson_Nano_resnet50](https://github.com/MoonUsagi/Jetson_Nano_resnet50)|
+
+## MATLAB Integration With Hardware：Future Update <a name="Future Update"/>
+
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
