@@ -8,6 +8,11 @@ AI and image learning map
 * [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Semantic-Segmentation-)
 * [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Instance-Segmentation-)
 
+### MATLAB Integration
+
+* [Image Classification]()
+
+
 ### Code Project
 * [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
 * [@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link") 
@@ -15,6 +20,7 @@ AI and image learning map
 * [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
 * [@AOI_Lab] 
 * [@DL_Exten]
+* [@RL_Lab]
 
 ## Deep Learning Image Classification <a name="ImageClassification"/>
 剛入門要踏入深度學習時，可以先藉由這幾個影片與程式碼專案開始學起，第一部分初始介紹為告訴如何快速使用深度學習模型。 
@@ -111,28 +117,39 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-**深度學習影像進階：未來更新內容:** 
-10.1 深度學習進階(架構設計) 
 
-10.2 深度學習進階(自定義層) 
+## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
 
-10.3 深度學習進階(Auto Labeling) 
+10.1 深度學習進階(架構設計)＠DL_Exten系列 
 
-11.1文字辨識(Text Detection) 
+10.2 深度學習進階(自定義層)＠DL_Exten系列 
 
-11.2OCR系統 
+10.3 深度學習進階(Auto Labeling)＠DL_Exten系列 
 
-11.3BarCode檢測 
+11.1文字辨識(Text Detection)＠AOI_Lab系列  
 
-12.1 影像異常偵測 
+11.2OCR系統＠AOI_Lab系列  
 
-13.1 
+11.3BarCode檢測＠AOI_Lab系列 
 
-13.2 GAN(生成對抗網路) 
+12.1 影像異常偵測＠DL_Exten系列  
+
+13.1 Image Captioning＠DL_Exten系列 
+
+13.2 GAN(生成對抗網路)＠DL_Exten系列 
 
 
 
+## MATLAB Integration <a name="MATLAB_Integration"/>
 
+**MATLAB Integration With Python:** 
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+
+
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 
 
