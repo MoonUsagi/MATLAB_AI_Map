@@ -215,6 +215,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 **Lidar光達:** 
 | Youtube影片標題 |系列|
+|------|:---:|
 |[點雲檢視工具(Lidar Viewer)](https://youtu.be/87VnsitFVCI "link") |MATLAB三分鐘不用寫Code系列|
 |[Lidar校正(Lidar Camera Calibrator)](https://youtu.be/_WabP7g21kM "link") |MATLAB三分鐘不用寫Code系列|
 
