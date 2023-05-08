@@ -122,8 +122,8 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference](https://youtu.be/sPa4UHyq65Y)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案](https://youtu.be/6nNKu2qjWcQ)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
