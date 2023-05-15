@@ -24,7 +24,7 @@ AI and image learning map
 
 ### Code Project
 * [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
-* [@RabbitDetect(Object Detect & Image Segment](https://github.com/MoonUsagi/RabbitDetect "link") 
+* [@RabbitDetect(Object Detect & Image Segment)](https://github.com/MoonUsagi/RabbitDetect "link") 
 * [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
 * [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
 * [@AOI_Lab] 

@@ -24,7 +24,7 @@ AI and image learning map
 
 ### Code Project
 * [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
-* [@RabbitDetect(Object Detect & Image Segment](https://github.com/MoonUsagi/RabbitDetect "link") 
+* [@RabbitDetect(Object Detect & Image Segment)](https://github.com/MoonUsagi/RabbitDetect "link") 
 * [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
 * [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
 * [@AOI_Lab] 
@@ -122,8 +122,8 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference](https://youtu.be/sPa4UHyq65Y)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案](https://youtu.be/6nNKu2qjWcQ)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)]|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
@@ -257,9 +257,14 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 
 ## Customized APPs <a name="MATLAB_Customized_APPs"/>
-| GiuHub專案 |系列|
-|------|:---:|
-|[ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP "link")|
+| GiuHub專案 |內容介紹|
+|------|-----|
+|[ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP "link")|不用寫Code實現物件偵測演算法|
+|[AOI_Layout](https://github.com/MoonUsagi/AIO_Layout "link")|不用寫Code實現影像演算法|
+|[Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP "link")|遷移式風格轉換|
+|[Image_Captioning](https://github.com/MoonUsagi/Image_Captioning_APP "link")|影像文字輸出模型|
+|[Image_Inpainting](https://github.com/MoonUsagi/Image_Inpainting "link")|影像修補功能|
+
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
