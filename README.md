@@ -202,6 +202,8 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 **影像應用系列:** 
 | Youtube影片標題 |系列|
 |------|:---:|
+|[2023a更新！色彩切割(Color Thresholder APP) ](https://youtu.be/6ihlgcRin1A "link") |MATLAB三分鐘不用寫Code系列|
+|[2023a更新！影像切割(Image Segmenter) ](https://youtu.be/4QKOlREl8ZI "link") |MATLAB三分鐘不用寫Code系列|
 |[色彩切割(Color Thresholder) ](https://youtu.be/vPB9dl8lMvw "link") |MATLAB三分鐘不用寫Code系列|
 |[影像切割(Image Segmenter)](https://youtu.be/kumg3rujj3U "link") |MATLAB三分鐘不用寫Code系列|
 |[影像分析( Image_Region_Analyzer)](https://youtu.be/4T-zSLD8Eos "link") |MATLAB三分鐘不用寫Code系列|
