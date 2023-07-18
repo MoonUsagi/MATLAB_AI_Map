@@ -28,7 +28,7 @@ AI and image learning map
 * [@RabbitDetect(Object Detect & Image Segment)](https://github.com/MoonUsagi/RabbitDetect "link") 
 * [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
 * [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
-* [@AOI_Lab] (https://github.com/MoonUsagi/AOI_Lab "link") 
+* [@AOI_Lab](https://github.com/MoonUsagi/AOI_Lab "link") 
 * [@DL_Exten] 
 * [@RL_Lab] 
 * [@GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
