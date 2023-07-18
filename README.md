@@ -45,7 +45,7 @@ When you are new to deep learning and want to get started, you can begin by watc
 |------|:---:|
 | [在MATLAB中安裝Pretrained Deep Learning Mode](https://youtu.be/ZPCNmTxV5K8 "link")| [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") |
 | [使用五行程式碼，快速在MATLAB中使用深度學習模型](https://www.youtube.com/watch?v=fjjnGmvZxc0 "link")| [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") |
-| [不用寫code，快速在MATLAB中使用Transfer Learning App，來建立屬於你的深度學習模型！(https://youtu.be/7qlJgBoSnKA "link")]   |  [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")  |
+| [不用寫code，快速在MATLAB中使用Transfer Learning App，來建立屬於你的深度學習模型！](https://youtu.be/7qlJgBoSnKA "link")]   |  [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")  |
 | [Deep Network Designer(開發深度學習架構，並且進行訓練)](https://youtu.be/AQw3DC7FK1Y "link") | [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")| 
 
 ------
@@ -184,7 +184,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 | Blog文章標題 |
 |------|
-|[MATLAB實現整合系列：Compiler]( "link")|
+|[MATLAB實現整合系列：Compiler]("link")|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
