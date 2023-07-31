@@ -153,12 +153,12 @@ Following the completion of the object detection section, this paragraph will de
 
 ------
   
-**深度學習影像進階：實例分割:** 
 結束語意分割後，此段落會進入物件切割中的實例分割，主要會介紹怎麼在MATLAB中使用MaskRCNN，並且從標記影像就開始做介紹到訓練
 與實現被訓練好的模型。
 　　
 After concluding the section on semantic segmentation, this paragraph will move on to instance segmentation in the domain of object segmentation. The main focus will be on how to use Mask R-CNN in MATLAB, covering the process from annotating images to training and implementing a trained model.
-　　
+  
+**深度學習影像進階：實例分割:** 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
@@ -173,11 +173,11 @@ After concluding the section on semantic segmentation, this paragraph will move 
 
 ------
   
-**深度學習影像進階：文字區域＆字元(OCR)＆條碼辨識:** 
 此區域會針對在工業界上常使用到的一些功能來做介紹，從影像上抓出文字區域、字元辨識(OCR)、與一維二維條碼辨識。
   
 In this section, we will focus on introducing some commonly used functionalities in the industrial sector. We will cover topics such as extracting text regions from images, character recognition (OCR), and one-dimensional and two-dimensional barcode recognition.
   
+**深度學習影像進階：文字區域＆字元(OCR)＆條碼辨識:**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之十一(1)文字辨識(Text Detection)](https://youtu.be/fOl85S2SSw0 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
