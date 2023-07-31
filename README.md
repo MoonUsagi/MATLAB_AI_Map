@@ -7,6 +7,8 @@ AI and image learning map
 * [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Object-Detection-)
 * [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Semantic-Segmentation-)
 * [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Instance-Segmentation-)
+* [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Text-Detection-&-OCR-&-Barcode-)
+
 
 ### MATLAB Integration
 
@@ -165,15 +167,30 @@ After concluding the section on semantic segmentation, this paragraph will move 
 |[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)](https://youtu.be/_lNHy4jLp00 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-  
-**深度學習影像進階：文字_AOI_Barcode辨識:** 
 
+## Deep Learning Image Text Detection & OCR & Barcode <a name="ImageText_OCR_Barcode"/>
+
+------
+  
+**深度學習影像進階：文字區域＆字元(OCR)＆條碼辨識:** 
+此區域會針對在工業界上常使用到的一些功能來做介紹，從影像上抓出文字區域、字元辨識(OCR)、與一維二維條碼辨識。
+  
+In this section, we will focus on introducing some commonly used functionalities in the industrial sector. We will cover topics such as extracting text regions from images, character recognition (OCR), and one-dimensional and two-dimensional barcode recognition.
+  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之十一(1)文字辨識(Text Detection)](https://youtu.be/fOl85S2SSw0 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之十一(2)New OCR(DL Base)](https://youtu.be/bZVOEviIcQE "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之十一(3)Barcode檢測(一維與二維條碼)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+  
+| Blog文章標題 |
+|------|
+|[AOI_Lab (MATLAB Visual Inspection )(上)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8A-524cd52fc939 "link")|
+  
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
+------
+  
 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
