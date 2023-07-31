@@ -278,7 +278,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |GPU Coder|Jetson Nano|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
 |GPU Coder|Jetson Nano|[Jetson_Nano_resnet50](https://github.com/MoonUsagi/Jetson_Nano_resnet50)|
 
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
 ------
   
