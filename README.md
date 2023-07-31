@@ -205,12 +205,11 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |------|
 |[AOI_Lab (MATLAB Visual Inspection )(下)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af "link")|
   
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
 ------
   
+## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
 10.1 深度學習進階(架構設計)＠DL_Exten系列 
 
 10.2 深度學習進階(自定義層)＠DL_Exten系列 
@@ -224,9 +223,8 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
-
+  
 ## MATLAB Integration with Python <a name="MATLAB_Integration_with_python"/>
-
 **MATLAB中寫Python，與TensorFlow,PyTorch,ONNX整合:** 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
@@ -240,9 +238,9 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-## Integration with Software(Compiler & Compiler SDK) <a name="MATLAB_Integration_with_Software"/>
 ------
   
+## Integration with Software(Compiler & Compiler SDK) <a name="MATLAB_Integration_with_Software"/>  
 **整體框架介紹:** 
 
 | Blog文章標題 |
@@ -250,9 +248,9 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[MATLAB實現整合系列：框架介紹](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%B4%B9-93dfaa228a73 "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-　　
+
 ------
-　　
+  
 **Compiler & Compiler SDK:** 
 
 | Blog文章標題 |
