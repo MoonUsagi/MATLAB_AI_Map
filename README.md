@@ -191,7 +191,7 @@ In this section, we will focus on introducing some commonly used functionalities
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ## Deep Learning Image Anomaly Detection <a name="ImageText_OCR_Barcode"/>
-
+　　
 ------
 此篇章中會介紹如何在MATLAB中使用這最新的異常偵測模型，會介紹針對在影像上、訊號與最後數值上的異常偵測算法，尤其是在影像上的異常偵測模型，
 都是2021~2023附近出的論文，算是蠻新穎且實用的演算法。
@@ -208,11 +208,11 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[AOI_Lab (MATLAB Visual Inspection )(下)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af "link")|
   
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+
+## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
 　　
 ------
 　　
-## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
-
 10.1 深度學習進階(架構設計)＠DL_Exten系列 
 
 10.2 深度學習進階(自定義層)＠DL_Exten系列 
