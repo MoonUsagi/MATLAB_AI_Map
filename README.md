@@ -37,10 +37,26 @@ AI and image learning map
 ------
 
 ## Deep Learning Image Classification <a name="ImageClassification"/>
-剛入門要踏入深度學習時，可以先藉由這幾個影片與程式碼專案開始學習並且了解，第一部分初始介紹為告訴如何快速使用深度學習模型，
-五行程式碼快速實現(Inference)模型，以及做遷移式學習與使用圖形化介面不用寫Code。 
+當你初步踏入深度學習領域時，以下這幾個影片與程式碼專案可以成為你學習的起點，幫助你快速了解深度學習的基本概念和應用：
 
-When you are new to deep learning and want to get started, you can begin by watching these videos and exploring the code repository. The initial introduction in the first part will guide you on how to quickly use deep learning models. 
+1.在MATLAB中安裝Pretrained Deep Learning Mode：這個影片會向你介紹在MATLAB中深度學習的模型該如何下載。
+
+2.五行程式碼快速實現：在這個影片中，你會學到如何使用只有五行程式碼的方式來實現深度學習模型的推論（inference）過程，這對初學者來說是個很好的入門練習。
+
+3.快速使用遷移式學習：遷移式學習是深度學習中常見且重要的技術，它允許你將一個已經訓練好的模型應用到新的任務上。這個影片會教你如何運用遷移式學習來加速你的深度學習應用。
+
+4.使用圖形化介面不用寫Code完成深度學習：Deep Network Designer(深度學習工具)提供圖形化的介面，讓你無需寫程式碼也能建立和訓練深度學習模型。這個影片會帶你瞭解如何使用這些工具來加速模型開發。
+  
+
+When you are just starting out in the field of deep learning, the following videos and code projects can serve as your starting point to help you quickly grasp the basic concepts and applications of deep learning:
+
+1.Installing Pretrained Deep Learning Models in MATLAB: This video will introduce you to how you can download deep learning models in MATLAB.
+
+2.Five-Liner Code for Quick Implementation: In this video, you will learn how to implement the inference process of a deep learning model using only five lines of code, which is an excellent introductory exercise for beginners.
+
+3.Quick Introduction to Transfer Learning: Transfer learning is a common and essential technique in deep learning that allows you to apply a pre-trained model to a new task. This video will teach you how to use transfer learning to speed up your deep learning applications.
+
+4.Completing Deep Learning Tasks Without Writing Code Using a Graphical Interface: Deep Network Designer (a deep learning tool) provides a graphical interface that allows you to build and train deep learning models without writing code. This video will guide you on how to use these tools to accelerate model development.
 
 **深度學習初始介紹:**  
 | Youtube影片標題 | GiuHub專案 |
@@ -88,6 +104,9 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 ------
   
 ## Deep Learning Image Object Detection <a name="ImageObjectDetection"/>
+結束上段的深度學習分類，此章節會進入深度學習物件偵測的領域，在此段落會介紹如何使用MATLAB中的各種物件偵測模型進行辨識，
+從標記影像、訓練模型、透過雲端來進行訓練最後實現並且進行加速。
+
 
 **深度學習影像進階：物件偵測:**  
 | Youtube影片標題 | GiuHub專案 |
@@ -107,10 +126,14 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
+------
+  
 ## Deep Learning Image Semantic Segmentation <a name="ImageSemanticSegmentation"/>
+結束上段的物件偵測後，此段落會進入到物件切割中的語意分割，在此所需要花費在標記的時間會更多一些，因為標記的東西開始不是個簡單
+的方框，而會是一些複雜的形狀或是多邊形，因此在訓練上的效能所需也會更多一些，這邊目前是先介紹DeepLabv3+，日後再新增Unet的介紹。
 
+　　
 **深度學習影像進階：語意分割:**  
-
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之七(1)RabbitDetect語意分割篇：資料標記](https://youtu.be/ZKXTZ0RCYWg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
