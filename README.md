@@ -198,7 +198,12 @@ In this section, we will focus on introducing some commonly used functionalities
 |------|:---:|
 |[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
+| Blog文章標題 |
+|------|
+|[AOI_Lab (MATLAB Visual Inspection )(上)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8A-524cd52fc939 "link")|
 
+------
+  
 ## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
 
 10.1 深度學習進階(架構設計)＠DL_Exten系列 
