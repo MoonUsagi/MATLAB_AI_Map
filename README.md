@@ -149,10 +149,9 @@ Following the completion of the object detection section, this paragraph will de
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-## Deep Learning Image Instance Segmentation <a name="ImageInstanceSegmentation"/>
-
 ------
   
+## Deep Learning Image Instance Segmentation <a name="ImageInstanceSegmentation"/>
 結束語意分割後，此段落會進入物件切割中的實例分割，主要會介紹怎麼在MATLAB中使用MaskRCNN，並且從標記影像就開始做介紹到訓練
 與實現被訓練好的模型。
 　　
@@ -169,10 +168,9 @@ After concluding the section on semantic segmentation, this paragraph will move 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-## Deep Learning Image Text Detection & OCR & Barcode <a name="ImageText_OCR_Barcode"/>
-
 ------
   
+## Deep Learning Image Text Detection & OCR & Barcode <a name="ImageText_OCR_Barcode"/>
 此區域會針對在工業界上常使用到的一些功能來做介紹，從影像上抓出文字區域、字元辨識(OCR)、與一維二維條碼辨識。
   
 In this section, we will focus on introducing some commonly used functionalities in the industrial sector. We will cover topics such as extracting text regions from images, character recognition (OCR), and one-dimensional and two-dimensional barcode recognition.
@@ -190,9 +188,9 @@ In this section, we will focus on introducing some commonly used functionalities
   
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-## Deep Learning Image Anomaly Detection <a name="ImageText_OCR_Barcode"/>
-
 ------
+  
+## Deep Learning Image Anomaly Detection <a name="ImageText_OCR_Barcode"/>
 此篇章中會介紹如何在MATLAB中使用這最新的異常偵測模型，會介紹針對在影像上、訊號與最後數值上的異常偵測算法，尤其是在影像上的異常偵測模型，
 都是2021~2023附近出的論文，算是蠻新穎且實用的演算法。
   
