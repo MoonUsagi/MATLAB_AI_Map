@@ -3,7 +3,7 @@ AI and image learning map
 
 ### Deep Learning
 
-* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Classification-)
+* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#ImageClassification-)
 * [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Object-Detection-)
 * [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Semantic-Segmentation-)
 * [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Instance-Segmentation-)
@@ -189,9 +189,10 @@ In this section, we will focus on introducing some commonly used functionalities
   
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
+## Deep Learning Image Anomaly Detection <a name="ImageText_OCR_Barcode"/>
+
 ------
   
-
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
