@@ -21,6 +21,7 @@ AI and image learning map
 
 ### Image Processing & Computer Vision
 * [IPCV:]
+* [AOI:](https://github.com/MoonUsagi/AOI_Lab/tree/main)
 
 
 ### Code Project
@@ -129,6 +130,19 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 |[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)](https://youtu.be/_lNHy4jLp00 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+  
+**深度學習影像進階：文字_AOI_Barcode辨識:** 
+
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB深度學習之十一(1)文字辨識(Text Detection)](https://youtu.be/fOl85S2SSw0 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之十一(2)New OCR(DL Base)](https://youtu.be/bZVOEviIcQE "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之十一(3)Barcode檢測(一維與二維條碼)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+
+
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 
 ## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
@@ -138,15 +152,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 10.2 深度學習進階(自定義層)＠DL_Exten系列 
 
 10.3 深度學習進階(Auto Labeling)＠DL_Exten系列 
-
-11.1文字辨識(Text Detection)＠AOI_Lab系列  
-
-11.2OCR系統＠AOI_Lab系列  
-
-11.3BarCode檢測＠AOI_Lab系列 
-
-12.1 影像異常偵測＠DL_Exten系列  
-
+  
 13.1 Image Captioning＠DL_Exten系列 
 
 13.2 GAN(生成對抗網路)＠DL_Exten系列 
@@ -221,6 +227,9 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 **影像應用系列:** 
 | Youtube影片標題 |系列|
 |------|:---:|
+|[2023a更新！影像標記(Image Labeler)  ](https://youtu.be/jghZbfJo3j8 "link") |MATLAB三分鐘不用寫Code系列|
+|[2023a更新！影像分析(Image Region Analyzer)  ](https://youtu.be/FsArD6K0ong "link") |MATLAB三分鐘不用寫Code系列|
+|[2023a更新！色彩切割(2)相機擷取(Color Thresholder APP)  ](https://youtu.be/vJDSWuhr40k "link") |MATLAB三分鐘不用寫Code系列|
 |[2023a更新！色彩切割(Color Thresholder APP) ](https://youtu.be/6ihlgcRin1A "link") |MATLAB三分鐘不用寫Code系列|
 |[2023a更新！影像切割(Image Segmenter) ](https://youtu.be/4QKOlREl8ZI "link") |MATLAB三分鐘不用寫Code系列|
 |[色彩切割(Color Thresholder) ](https://youtu.be/vPB9dl8lMvw "link") |MATLAB三分鐘不用寫Code系列|
@@ -258,6 +267,7 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 **標記(Labeler):** 
 | Youtube影片標題 |系列|
 |------|:---:|
+|[2023a更新！影像標記(Image Labeler)  ](https://youtu.be/jghZbfJo3j8 "link") |MATLAB三分鐘不用寫Code系列|
 |[影像標記(Image Labeler) ](https://youtu.be/Tq7f_6NOjEU "link") |MATLAB三分鐘不用寫Code系列|
 |[光達標記工具(Lidar Labeler)](https://youtu.be/CurDmG9rYbI "link")|MATLAB三分鐘不用寫Code系列|
 |[醫學影像標記工具(Medical Image Labeler)](https://youtu.be/Obj8I07mXuY "link")|MATLAB三分鐘不用寫Code系列|
