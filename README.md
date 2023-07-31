@@ -57,7 +57,7 @@ When you are just starting out in the field of deep learning, the following vide
 3.Quick Introduction to Transfer Learning: Transfer learning is a common and essential technique in deep learning that allows you to apply a pre-trained model to a new task. This video will teach you how to use transfer learning to speed up your deep learning applications.
 
 4.Completing Deep Learning Tasks Without Writing Code Using a Graphical Interface: Deep Network Designer (a deep learning tool) provides a graphical interface that allows you to build and train deep learning models without writing code. This video will guide you on how to use these tools to accelerate model development.
-
+  
 **深度學習初始介紹:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
@@ -72,7 +72,7 @@ When you are just starting out in the field of deep learning, the following vide
 使用遷移式學習來快速訓練一個新模型。 
 
 If you have already gained a preliminary understanding from the above and know how to download models, you can proceed with the following image-based introduction to deep learning. This will allow you to accomplish tasks such as single image classification, multiple image classification, training a classification model from scratch, and utilizing transfer learning to rapidly train a new model.
-
+  
 **深度學習影像入門：分類與遷移式學習**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
@@ -89,7 +89,7 @@ If you have already gained a preliminary understanding from the above and know h
 此章節中會介紹幾種MATLAB中支援的可視化模型。
 
 Visualizing a pre-trained model, especially generating heatmaps, can help us understand the model's attention to different regions in an image during classification prediction. This allows us to gain insights into the basis of the model's classification decisions. In this chapter, several visualization techniques supported in MATLAB will be introduced
-
+  
 **深度學習影像進階：分類可視化**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
@@ -109,7 +109,7 @@ Visualizing a pre-trained model, especially generating heatmaps, can help us und
 從標記影像、訓練模型、透過雲端來進行訓練最後實現並且進行加速。
   
 Ending the previous section on deep learning classification, this chapter will delve into the field of deep learning object detection. In this paragraph, we will introduce how to use various object detection models available in MATLAB for recognition tasks. This includes steps such as annotating images, training the model, using cloud resources for training, and finally, implementing and accelerating the object detection process.
-
+  
 **深度學習影像進階：物件偵測:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
@@ -134,7 +134,8 @@ Ending the previous section on deep learning classification, this chapter will d
 結束上段的物件偵測後，此段落會進入到物件切割中的語意分割，在此所需要花費在標記的時間會更多一些，因為標記的東西開始不是個簡單
 的方框，而會是一些複雜的形狀或是多邊形，因此在訓練上的效能所需也會更多一些，這邊目前是先介紹DeepLabv3+，日後再新增Unet的介紹。
 
-　　
+Following the completion of the object detection section, this paragraph will delve into semantic segmentation in the domain of object segmentation. In semantic segmentation, the time required for annotation will be more extensive because annotations are no longer simple bounding boxes but complex shapes or polygons. Consequently, the performance demands for training will also increase. In this section, we will start by introducing DeepLabv3+, and later on, we will add an introduction to Unet as well.
+  
 **深度學習影像進階：語意分割:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
@@ -147,8 +148,14 @@ Ending the previous section on deep learning classification, this chapter will d
 
 ## Deep Learning Image Instance Segmentation <a name="ImageInstanceSegmentation"/>
 
+------
+  
 **深度學習影像進階：實例分割:** 
-
+結束語意分割後，此段落會進入物件切割中的實例分割，主要會介紹怎麼在MATLAB中使用MaskRCNN，並且從標記影像就開始做介紹到訓練
+與實現被訓練好的模型。
+　　
+After concluding the section on semantic segmentation, this paragraph will move on to instance segmentation in the domain of object segmentation. The main focus will be on how to use Mask R-CNN in MATLAB, covering the process from annotating images to training and implementing a trained model.
+　　
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
