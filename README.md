@@ -191,7 +191,7 @@ In this section, we will focus on introducing some commonly used functionalities
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ## Deep Learning Image Anomaly Detection <a name="ImageText_OCR_Barcode"/>
-　　
+
 ------
 此篇章中會介紹如何在MATLAB中使用這最新的異常偵測模型，會介紹針對在影像上、訊號與最後數值上的異常偵測算法，尤其是在影像上的異常偵測模型，
 都是2021~2023附近出的論文，算是蠻新穎且實用的演算法。
