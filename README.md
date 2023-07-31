@@ -3,23 +3,24 @@ AI and image learning map
 
 ### Deep Learning
 
-* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#ImageClassification-)
-* [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Object-Detection-)
-* [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Semantic-Segmentation-)
-* [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Instance-Segmentation-)
-* [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Image-Text-Detection-&-OCR-&-Barcode-)
+* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-classification-)
+* [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-object-detection-)
+* [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-semantic-segmentation-)
+* [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-instance-segmentation-)
+* [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
+* [Anomaly Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-anomaly-detection-)
 
 
 ### MATLAB Integration
 
-* [Integration with Python](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Integration-With-Python-)
-* [Integration with Software(Compiler & Compiler SDK)](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Integration-With-Software-)
-* [Integration with Hardware(GPU,ARM,FPGA)](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Integration-With-Hardware-)
+* [Integration with Python](https://github.com/MoonUsagi/AI_Images_Map#matlab-integration-with-python-)
+* [Integration with Software(Compiler & Compiler SDK)](https://github.com/MoonUsagi/AI_Images_Map#integration-with-softwarecompiler--compiler-sdk-)
+* [Integration with Hardware(GPU,ARM,FPGA)](https://github.com/MoonUsagi/AI_Images_Map#matlab-integration-with-hardware-)
 
 ### MATLAB APPs
-* [MATLAB Image APPs:](https://github.com/MoonUsagi/AI_Images_Map#MATLAB-Image-APPs-)
-* [MATLAB Deep Leanring APPs:](https://github.com/MoonUsagi/#MATLAB-Deep-Leanring-APPs-)
-* [Customized APPs](https://github.com/MoonUsagi/AI_Images_Map#Customized-APPs-)
+* [MATLAB Image APPs:](https://github.com/MoonUsagi/AI_Images_Map#matlab-image-apps-)
+* [MATLAB Deep Leanring APPs:](https://github.com/MoonUsagi/AI_Images_Map#matlab-deep-leanring-apps-)
+* [Customized APPs](https://github.com/MoonUsagi/AI_Images_Map#customized-apps-)
 
 ### Image Processing & Computer Vision
 * [IPCV]
