@@ -280,8 +280,8 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-
-
+------
+  
 ## MATLAB Integration With Hardware：Future Update <a name="Future Update"/>
 
  1.Integration With ARM 
@@ -291,7 +291,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
-
+  
 ## MATLAB Image APPs <a name="MATLAB_Image_APPs"/>
 
 **影像應用系列:** 
@@ -344,7 +344,8 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-
+------
+  
 ## MATLAB Deep Leanring APPs <a name="MATLAB_DeepLearning_APPs"/>
 | Youtube影片標題 |系列|
 |------|:---:|
@@ -356,7 +357,8 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
-
+------
+  
 ## Customized APPs <a name="MATLAB_Customized_APPs"/>
 | GiuHub專案 |內容介紹|
 |------|-----|
@@ -365,7 +367,6 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP "link")|遷移式風格轉換|
 |[Image_Captioning](https://github.com/MoonUsagi/Image_Captioning_APP "link")|影像文字輸出模型|
 |[Image_Inpainting](https://github.com/MoonUsagi/Image_Inpainting "link")|影像修補功能|
-
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
