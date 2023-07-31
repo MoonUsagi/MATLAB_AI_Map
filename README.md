@@ -220,6 +220,14 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 13.2 GAN(生成對抗網路)＠DL_Exten系列 
 
+14.1 Verification@DL_Exten系列
+
+15.1 DL>數值@DL_Exten系列
+
+15.2 DL>訊號@DL_Exten系列
+
+16.1 強化學習@RL_Lab系列
+
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
@@ -247,21 +255,16 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |------|
 |[MATLAB實現整合系列：框架介紹](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%B4%B9-93dfaa228a73 "link")|
 
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
 **Compiler & Compiler SDK:** 
 
 | Blog文章標題 |
 |------|
 |[MATLAB實現整合系列：Compiler]("link")|
 
-
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-　　
+
 ------
-　　
+  
 ## MATLAB Integration with Hardware <a name="MATLAB_Integration_with_hardware"/>
 
 **MATLAB Integration With Hardware:** 
