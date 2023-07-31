@@ -195,9 +195,9 @@ In this section, we will focus on introducing some commonly used functionalities
 ------
 此篇章中會介紹如何在MATLAB中使用這最新的異常偵測模型，會介紹針對在影像上、訊號與最後數值上的異常偵測算法，尤其是在影像上的異常偵測模型，
 都是2021~2023附近出的論文，算是蠻新穎且實用的演算法。
-　　
+  
 In this chapter, we will explore how to use the latest anomaly detection models in MATLAB. We will introduce anomaly detection algorithms for images, signals, and numerical data. Particularly, we will focus on anomaly detection models for images, which are based on cutting-edge research papers published around 2021 to 2023. These algorithms are novel and practical, making them highly relevant for various applications.
-　　
+  
 **深度學習影像進階：異常偵測(Anomaly Detection):**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
