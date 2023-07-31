@@ -71,7 +71,7 @@ When you are just starting out in the field of deep learning, the following vide
 如果透過上方已經了解初步概念與已經知道怎麼下載模型時，可以透過以下深度學習影像入門，完成單張影像的分類、多張影像的分類、自己從零開始訓練一個分類模型、
 使用遷移式學習來快速訓練一個新模型。 
 
-If you already have a basic understanding and know how to download models from the above, you can advance your skills by starting with the following introduction to deep learning for images. This will enable you to progress further in tasks such as single image classification, multiple image classification, training your own classification model from scratch, and using transfer learning to rapidly train a new model. 
+If you have already gained a preliminary understanding from the above and know how to download models, you can proceed with the following image-based introduction to deep learning. This will allow you to accomplish tasks such as single image classification, multiple image classification, training a classification model from scratch, and utilizing transfer learning to rapidly train a new model.
 
 **深度學習影像入門：分類與遷移式學習**
 | Youtube影片標題 | GiuHub專案 |
@@ -85,9 +85,10 @@ If you already have a basic understanding and know how to download models from t
 
 ------
   
-將已經訓練好的模型可視化吧！產生模型的熱圖，讓模型輸出有強烈特徵的區域熱圖，了解模型到底看到了什麼，才會做出此分類的辨識結果。 
+將已經訓練好的模型可視化，特別是產生模型的熱圖，可以幫助我們了解模型在進行分類預測時，對於影像中不同區域的關注程度，進而瞭解模型做出分類結果的依據，
+此章節中會介紹幾種MATLAB中支援的可視化模型。
 
-Visualize your trained models! Generate heatmaps to understand what your models are seeing and how they arrive at classification decisions. 
+Visualizing a pre-trained model, especially generating heatmaps, can help us understand the model's attention to different regions in an image during classification prediction. This allows us to gain insights into the basis of the model's classification decisions. In this chapter, several visualization techniques supported in MATLAB will be introduced
 
 **深度學習影像進階：分類可視化**
 | Youtube影片標題 | GiuHub專案 |
@@ -106,7 +107,8 @@ Visualize your trained models! Generate heatmaps to understand what your models 
 ## Deep Learning Image Object Detection <a name="ImageObjectDetection"/>
 結束上段的深度學習分類，此章節會進入深度學習物件偵測的領域，在此段落會介紹如何使用MATLAB中的各種物件偵測模型進行辨識，
 從標記影像、訓練模型、透過雲端來進行訓練最後實現並且進行加速。
-
+  
+Ending the previous section on deep learning classification, this chapter will delve into the field of deep learning object detection. In this paragraph, we will introduce how to use various object detection models available in MATLAB for recognition tasks. This includes steps such as annotating images, training the model, using cloud resources for training, and finally, implementing and accelerating the object detection process.
 
 **深度學習影像進階：物件偵測:**  
 | Youtube影片標題 | GiuHub專案 |
