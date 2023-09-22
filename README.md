@@ -33,7 +33,7 @@ AI and image learning map
 * [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
 * [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
 * [@AOI_Lab](https://github.com/MoonUsagi/AOI_Lab "link") 
-* [@DL_Exten] 
+* [@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
 * [@RL_Lab] 
 * [@GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
 
@@ -259,7 +259,8 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 | Blog文章標題 |
 |------|
-|[MATLAB實現整合系列：Compiler]("link")|
+|[MATLAB實現整合系列：Compiler](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E6%9C%9F-compiler-1c8ecc951ab0 "link")|
+|[MATLAB實現整合系列：Compiler SDK(上)C#.NET](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8A-c-net%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8Bc-ecbc1cdca022 "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
