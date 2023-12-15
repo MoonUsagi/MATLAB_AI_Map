@@ -273,6 +273,10 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |------|
 |[實現整合系列第一期:MATLAB中寫Python，與TensorFlow,PyTorch整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610 "link")|
 
+
+**MATLAB 與 Python 整合實現(中文圈最新最強教材):** 
+以下為Tim所撰寫的MATLAB與Python整合相關的教材與教學，內容包含了在MATLAB與Python中的雙向溝通，以及實現多語言與環境的整合，例如Python與Simulink、如何MATLAB中執行Python後，在VS Code中debug python code等等.....  
+  
 | 專案(教材&電子書)|
 |------|
 |[MATLAB 與 Python 整合實現(create by Tim )](https://github.com/sitdownplz/MATLAB_Integration_Python "link")|
