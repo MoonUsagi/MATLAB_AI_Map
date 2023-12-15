@@ -275,6 +275,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 
 **MATLAB 與 Python 整合實現(中文圈最新最強教材):**  
+  
 以下為Tim所撰寫的MATLAB與Python整合相關的教材與教學，內容包含了在MATLAB與Python中的雙向溝通，以及實現多語言與環境的整合，例如Python與Simulink、如何MATLAB中執行Python後，在VS Code中debug python code等等.....  
   
 | 專案(教材&電子書)|
