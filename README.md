@@ -126,7 +126,7 @@ Ending the previous section on deep learning classification, this chapter will d
 |[MATLAB深度學習之六(6)RabbitDetect物件偵測篇：YOLOv3](https://youtu.be/CT8diNnOkXs "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(7)RabbitDetect物件偵測篇：YOLOv4](https://youtu.be/glXUnqScaGc "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(8)RabbitDetect物件偵測篇：自定義YOLOv4架構：YOLOv4](https://youtu.be/Wzes49qzwCM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[(no yet)MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
   
   
 **深度學習影像進階：物件偵測(實現與其他):**  
@@ -174,7 +174,7 @@ After concluding the section on semantic segmentation, this paragraph will move 
 |[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案](https://youtu.be/6nNKu2qjWcQ)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN](https://youtu.be/ehov2aTgesU "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)](https://youtu.be/_lNHy4jLp00 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(6)RabbitDetect實例分割篇：SOLOv2]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[(no yet)MATLAB深度學習之八(6)RabbitDetect實例分割篇：SOLOv2]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
@@ -189,9 +189,9 @@ After concluding the section on semantic segmentation, this paragraph will move 
 |------|:---:|
 |[深度學習系列之十(1) 物件偵測篇：YOLOX(2023b更新)檢測效果展示](https://youtu.be/KBQc0f5fH58?si=T3RVVFImWaJEuZkB "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[深度學習系列之十(2) 物件偵測篇：YOLOX(Demo Inference)](https://youtu.be/TDf8SHRFrCU?si=GXv1zqN8hOqPBPe3 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(3) 實例分割篇：SOLOv2 (2023b更新)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(5) 實例分割篇：SOLOv2 (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[(no yet)深度學習系列之十(3) 實例分割篇：SOLOv2 (2023b更新)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[(no yet)深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[(no yet)深度學習系列之十(5) 實例分割篇：SOLOv2 (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
@@ -272,6 +272,12 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 | Blog文章標題 |
 |------|
 |[實現整合系列第一期:MATLAB中寫Python，與TensorFlow,PyTorch整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610 "link")|
+
+| 專案(教材&電子書)|
+|------|
+|[MATLAB 與 Python 整合實現(create by Tim )](https://github.com/sitdownplz/MATLAB_Integration_Python "link")|
+  
+  
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
