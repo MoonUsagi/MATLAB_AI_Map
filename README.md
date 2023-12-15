@@ -137,6 +137,12 @@ Ending the previous section on deep learning classification, this chapter will d
 |[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
   
+
+| Blog文章標題 |
+|------|
+|[YOLOX (MATLAB 2023b)](https://medium.com/@FredLiu_/yolox-matlab-2023b-1987f2b3aa05"link")|
+  
+
   
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
