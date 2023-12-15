@@ -126,7 +126,7 @@ Ending the previous section on deep learning classification, this chapter will d
 |[MATLAB深度學習之六(6)RabbitDetect物件偵測篇：YOLOv3](https://youtu.be/CT8diNnOkXs "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(7)RabbitDetect物件偵測篇：YOLOv4](https://youtu.be/glXUnqScaGc "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(8)RabbitDetect物件偵測篇：自定義YOLOv4架構：YOLOv4](https://youtu.be/Wzes49qzwCM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
   
   
 **深度學習影像進階：物件偵測(實現與其他):**  
@@ -137,7 +137,7 @@ Ending the previous section on deep learning classification, this chapter will d
 |[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
   
-
+  
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
@@ -174,11 +174,31 @@ After concluding the section on semantic segmentation, this paragraph will move 
 |[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案](https://youtu.be/6nNKu2qjWcQ)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN](https://youtu.be/ehov2aTgesU "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)](https://youtu.be/_lNHy4jLp00 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(6)RabbitDetect實例分割篇：SOLOv2]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
   
+## Deep Learning Inference <a name="DeepLearningInference"/>
+深度學習系列之十，以Demo與Inference還有五行Inference為主)
+
+**深度學習影像進階：Inference :** 
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[深度學習系列之十(1) 物件偵測篇：YOLOX(2023b更新)檢測效果展示](https://youtu.be/KBQc0f5fH58?si=T3RVVFImWaJEuZkB "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(2) 物件偵測篇：YOLOX(Demo Inference)](https://youtu.be/TDf8SHRFrCU?si=GXv1zqN8hOqPBPe3 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(3) 實例分割篇：SOLOv2 (2023b更新)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(5) 實例分割篇：SOLOv2 (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+
+------
+
+
 ## Deep Learning Image Text Detection & OCR & Barcode <a name="ImageText_OCR_Barcode"/>
 此區域會針對在工業界上常使用到的一些功能來做介紹，從影像上抓出文字區域、字元辨識(OCR)、與一維二維條碼辨識。
   
