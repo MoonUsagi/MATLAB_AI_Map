@@ -244,6 +244,26 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
   
+**深度學習擴充：DL_Exten:**  
+基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
+　　
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=xzPlpYXWM4QWVkGf "link")|[@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|
+
+| Blog文章標題 |
+|------|
+|[AOI_Lab (MATLAB Visual Inspection )(下)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af "link")|
+  
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
+
+------
+  
+
+
+
+
+  
 ## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
 10.1 深度學習進階(架構設計)＠DL_Exten系列 
 
