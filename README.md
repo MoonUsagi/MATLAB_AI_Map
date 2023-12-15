@@ -9,7 +9,7 @@ AI and image learning map
 * [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-instance-segmentation-)
 * [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
 * [Anomaly Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-anomaly-detection-)
-
+* [Deep Learning Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 
 ### MATLAB Integration
 
@@ -235,10 +235,6 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-
-| Blog文章標題 |
-|------|
-|[AOI_Lab (MATLAB Visual Inspection )(下)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af "link")|
   
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
