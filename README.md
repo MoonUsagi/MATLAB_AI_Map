@@ -244,9 +244,11 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
   
-**深度學習擴充：DL_Exten:**  
+## Deep Learning Exten <a name="DL_Exten"/>
+   
 基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
 　　
+**深度學習擴充：DL_Exten:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=xzPlpYXWM4QWVkGf "link")|[@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|
