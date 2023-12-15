@@ -126,14 +126,17 @@ Ending the previous section on deep learning classification, this chapter will d
 |[MATLAB深度學習之六(6)RabbitDetect物件偵測篇：YOLOv3](https://youtu.be/CT8diNnOkXs "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(7)RabbitDetect物件偵測篇：YOLOv4](https://youtu.be/glXUnqScaGc "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(8)RabbitDetect物件偵測篇：自定義YOLOv4架構：YOLOv4](https://youtu.be/Wzes49qzwCM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-
+|[MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+  
+  
+**深度學習影像進階：物件偵測(實現與其他):**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[使用五行程式碼，快速執行YOLOv4於MATLAB中：YOLOv4](https://youtu.be/hJrZg94y8vA "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[YOLOX Inference](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-
+  
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
