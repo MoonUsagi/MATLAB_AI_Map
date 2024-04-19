@@ -432,9 +432,11 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[醫學影像標記工具(Medical Image Labeler)](https://youtu.be/Obj8I07mXuY "link")|MATLAB三分鐘不用寫Code系列|
 **Demo:** 
 | Youtube影片標題 |系列|
+|------|:---:|
 |[GPU Coder加速 Demo](https://youtu.be/MCWKbw5cf1c?si=KY5dmT7NoN1k-B4Q "link") |Demo|
 |[vSLAM Demo](https://youtu.be/bQuqNo13qPg?si=K4ZoYB6NDyJ-HOkJ "link") |Demo|
 |[DeepSORT Demo](https://youtu.be/obj5VIQg5DU?si=8PiazwcDedwvR30n "link")|Demo|
+
   
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
