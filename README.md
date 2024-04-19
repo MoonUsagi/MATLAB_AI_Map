@@ -315,7 +315,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
   
-## Integration with Software(Compiler & Compiler SDK) <a name="MATLAB_Integration_with_Software"/>  
+## Integration with Software(Compiler系列 & Coder系列) <a name="MATLAB_Integration_with_Software"/>  
 **整體框架介紹:** 
 
 | Blog文章標題 |
@@ -337,6 +337,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[MATLAB實現整合系列：Compiler SDK(上)C#.NET](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8A-c-net%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8Bc-ecbc1cdca022 "link")|
 |[MATLAB實現整合系列：Compiler SDK(下)C++環境為例](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8B-c-%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8B-3ff0339077a3 "link")|
   
+  
 **MATLAB Coder & GPU Coder:** 
 
 | Youtube影片標題 | GiuHub專案 |
@@ -348,10 +349,9 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |------|
 |[MATLAB實現整合系列第四期：GPU Coder（上）](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E5%9B%9B%E6%9C%9F-gpu-coder-%E4%B8%8A-5494492adcd4 "link")|
 
-
-
+  
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-
+  
 ------
   
 ## MATLAB Integration with Hardware <a name="MATLAB_Integration_with_hardware"/>
