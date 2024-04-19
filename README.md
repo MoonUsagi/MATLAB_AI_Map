@@ -293,9 +293,13 @@ Deep Tracking
   
 ## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
 深度學習進階(架構設計)＠DL_Exten系列 
+
 深度學習進階(自定義層)＠DL_Exten系列 
+
 深度學習進階(Auto Labeling)＠DL_Exten系列 
+
 Image Captioning＠DL_Exten系列 
+
 GAN(生成對抗網路)＠DL_Exten系列 
 
 14.1 Verification@DL_Exten系列
