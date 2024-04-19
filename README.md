@@ -219,11 +219,7 @@ In this section, we will focus on introducing some commonly used functionalities
 |[MATLAB深度學習之十一(1)文字辨識(Text Detection)](https://youtu.be/fOl85S2SSw0 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之十一(2)New OCR(DL Base)](https://youtu.be/bZVOEviIcQE "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之十一(3)Barcode檢測(一維與二維條碼)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-  
-| Blog文章標題 |
-|------|
-|[AOI_Lab (MATLAB Visual Inspection )(上)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8A-524cd52fc939 "link")|
-  
+    
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
@@ -239,6 +235,13 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |------|:---:|
 |[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
   
+| Blog文章標題 |
+|------|
+|[AOI_Lab (MATLAB Visual Inspection )(上)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8A-524cd52fc939 "link")|
+|[AOI_Lab (MATLAB Visual Inspection )(下)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af "link")|
+
+  
+  
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
 ------
@@ -252,10 +255,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |------|:---:|
 |[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=xzPlpYXWM4QWVkGf "link")|[@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|
 
-| Blog文章標題 |
-|------|
-|[AOI_Lab (MATLAB Visual Inspection )(下)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af "link")|
-  
+
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
 ------
@@ -321,7 +321,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 | Blog文章標題 |
 |------|
 |[MATLAB實現整合系列：框架介紹](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%B4%B9-93dfaa228a73 "link")|
-
+  
 **Compiler & Compiler SDK:** 
 
 | Youtube影片標題 | GiuHub專案 |
@@ -329,13 +329,25 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[MATLAB Integration(4) - Compiler](https://youtu.be/CphzcqYFVH4?si=q6X3rYqMyzhEhwJL "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(5) - Compiler SDK(上)](https://youtu.be/g3l5AXdRfPE?si=OQcnzLDb9nSpv4J1 "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(6) - Compiler SDK(下)](https://youtu.be/P0W8z_LtQzM?si=DLoMcJzjmDgXZdDw "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-
+  
 
 | Blog文章標題 |
 |------|
 |[MATLAB實現整合系列：Compiler](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E6%9C%9F-compiler-1c8ecc951ab0 "link")|
 |[MATLAB實現整合系列：Compiler SDK(上)C#.NET](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8A-c-net%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8Bc-ecbc1cdca022 "link")|
 |[MATLAB實現整合系列：Compiler SDK(下)C++環境為例](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8B-c-%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8B-3ff0339077a3 "link")|
+  
+**MATLAB Coder & GPU Coder:** 
+
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB Integration(７) - GPU Coder(上)](https://youtu.be/dNSdl5UEucw?si=YoLBy14JrvGa4GCl "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+  
+
+| Blog文章標題 |
+|------|
+|[MATLAB實現整合系列第四期：GPU Coder（上）](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E5%9B%9B%E6%9C%9F-gpu-coder-%E4%B8%8A-5494492adcd4 "link")|
+
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
