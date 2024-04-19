@@ -128,7 +128,7 @@ Ending the previous section on deep learning classification, this chapter will d
 |[MATLAB深度學習之六(6)RabbitDetect物件偵測篇：YOLOv3](https://youtu.be/CT8diNnOkXs "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(7)RabbitDetect物件偵測篇：YOLOv4](https://youtu.be/glXUnqScaGc "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[MATLAB深度學習之六(8)RabbitDetect物件偵測篇：自定義YOLOv4架構：YOLOv4](https://youtu.be/Wzes49qzwCM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[(no yet)MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX](https://youtu.be/zEJurTM1PUI?si=AS9Qav1JjCrh5Rlb "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
   
   
 **深度學習影像進階：物件偵測(實現與其他):**  
@@ -295,8 +295,6 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[MATLAB Integration(1) - 深度學習模型 TensorFlow/PyTorch/ONNX整合](https://www.youtube.com/watch?v=zlpyDuOIsLs "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(2) - 在MATLAB中使用Python Code](https://www.youtube.com/watch?v=KBsTRPpvo3M "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(3) - 在Python中使用MATLAB](https://www.youtube.com/watch?v=2H57hKkQevE "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-|[MATLAB Integration(4) - Compiler](https://youtu.be/CphzcqYFVH4?si=q6X3rYqMyzhEhwJL "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-
 
 
 | Blog文章標題 |
@@ -313,7 +311,6 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[MATLAB 與 Python 整合實現(create by Tim )](https://github.com/sitdownplz/MATLAB_Integration_Python "link")|
   
   
-
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
@@ -327,10 +324,19 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 **Compiler & Compiler SDK:** 
 
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[MATLAB Integration(4) - Compiler](https://youtu.be/CphzcqYFVH4?si=q6X3rYqMyzhEhwJL "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+|[MATLAB Integration(5) - Compiler SDK(上)](https://youtu.be/g3l5AXdRfPE?si=OQcnzLDb9nSpv4J1 "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+|[MATLAB Integration(6) - Compiler SDK(下)](https://youtu.be/P0W8z_LtQzM?si=DLoMcJzjmDgXZdDw "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+
+
 | Blog文章標題 |
 |------|
 |[MATLAB實現整合系列：Compiler](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E6%9C%9F-compiler-1c8ecc951ab0 "link")|
 |[MATLAB實現整合系列：Compiler SDK(上)C#.NET](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8A-c-net%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8Bc-ecbc1cdca022 "link")|
+|[MATLAB實現整合系列：Compiler SDK(下)C++環境為例](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8B-c-%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8B-3ff0339077a3 "link")|
+
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
