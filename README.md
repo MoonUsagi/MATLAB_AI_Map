@@ -206,8 +206,7 @@ After concluding the section on semantic segmentation, this paragraph will move 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
-
-
+  
 ## Deep Learning Image Text Detection & OCR & Barcode <a name="ImageText_OCR_Barcode"/>
 此區域會針對在工業界上常使用到的一些功能來做介紹，從影像上抓出文字區域、字元辨識(OCR)、與一維二維條碼辨識。
   
@@ -246,6 +245,33 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
   
+## Deep Learning Pose Estimation <a name="DeepLearningPoseEstimation"/>
+深度學習系列之十三
+
+**深度學習影像進階：Deep Pose Estimation :** 
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+Deep Pose Estimation
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+
+------
+  
+## Deep Learning Tracking <a name="DeepLearning"/>
+深度學習系列之十四
+
+**深度學習影像進階：Deep Tracking :** 
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+Deep Tracking
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+
+------
+
+
+
+
 ## Deep Learning Exten <a name="DL_Exten"/>
    
 基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
@@ -266,15 +292,11 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
   
 ## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
-10.1 深度學習進階(架構設計)＠DL_Exten系列 
-
-10.2 深度學習進階(自定義層)＠DL_Exten系列 
-
-10.3 深度學習進階(Auto Labeling)＠DL_Exten系列 
-  
-13.1 Image Captioning＠DL_Exten系列 
-
-13.2 GAN(生成對抗網路)＠DL_Exten系列 
+深度學習進階(架構設計)＠DL_Exten系列 
+深度學習進階(自定義層)＠DL_Exten系列 
+深度學習進階(Auto Labeling)＠DL_Exten系列 
+Image Captioning＠DL_Exten系列 
+GAN(生成對抗網路)＠DL_Exten系列 
 
 14.1 Verification@DL_Exten系列
 
@@ -430,6 +452,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[影像標記(Image Labeler) ](https://youtu.be/Tq7f_6NOjEU "link") |MATLAB三分鐘不用寫Code系列|
 |[光達標記工具(Lidar Labeler)](https://youtu.be/CurDmG9rYbI "link")|MATLAB三分鐘不用寫Code系列|
 |[醫學影像標記工具(Medical Image Labeler)](https://youtu.be/Obj8I07mXuY "link")|MATLAB三分鐘不用寫Code系列|
+
 **Demo:** 
 | Youtube影片標題 |系列|
 |------|:---:|
