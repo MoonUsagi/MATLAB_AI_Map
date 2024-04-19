@@ -458,6 +458,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 ## Customized APPs <a name="MATLAB_Customized_APPs"/>
 | GiuHub專案 |內容介紹|
 |------|-----|
+|[VoiceChat Bunny Robot](https://www.mathworks.com/matlabcentral/fileexchange/163996-voicechat-bunny-robot "link")|語音合成&LLM|
 |[ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP "link")|不用寫Code實現物件偵測演算法|
 |[AOI_Layout](https://github.com/MoonUsagi/AIO_Layout "link")|不用寫Code實現影像演算法|
 |[Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP "link")|遷移式風格轉換|
