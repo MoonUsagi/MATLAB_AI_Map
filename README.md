@@ -25,7 +25,7 @@ AI and image learning map
 * [Customized APPs](https://github.com/MoonUsagi/AI_Images_Map#customized-apps-)
 
 ### Image Processing & Computer Vision
-* [IPCV](https://github.com/MoonUsagi/IPCV_Lab)
+* [IPCV Lab](https://github.com/MoonUsagi/IPCV_Lab)
 * [AOI Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main)
 
 
