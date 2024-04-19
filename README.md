@@ -25,8 +25,8 @@ AI and image learning map
 * [Customized APPs](https://github.com/MoonUsagi/AI_Images_Map#customized-apps-)
 
 ### Image Processing & Computer Vision
-* [IPCV Lab](https://github.com/MoonUsagi/IPCV_Lab)
-* [AOI Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main)
+* [IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab)
+* [AOI_Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main)
 
 
 ### Code Project
@@ -197,9 +197,10 @@ After concluding the section on semantic segmentation, this paragraph will move 
 |------|:---:|
 |[深度學習系列之十(1) 物件偵測篇：YOLOX(2023b更新)檢測效果展示](https://youtu.be/KBQc0f5fH58?si=T3RVVFImWaJEuZkB "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[深度學習系列之十(2) 物件偵測篇：YOLOX(Demo Inference)](https://youtu.be/TDf8SHRFrCU?si=GXv1zqN8hOqPBPe3 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[(no yet)深度學習系列之十(3) 實例分割篇：SOLOv2 (2023b更新)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[(no yet)深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[(no yet)深度學習系列之十(5) 實例分割篇：SOLOv2 (五行Inference)檢測效果展示]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(3) 實例分割篇：SOLOv2(2023b更新)](https://youtu.be/CqLdOKNson8?si=5f3Mb5LEDXy6i71X "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)](https://youtu.be/U-9MKdPHaac?si=sLU0Om4EG59St8dL "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(5) 物件偵測篇：SOLOv2 (五行Inference)](https://youtu.be/E0wst5Dxs2U?si=ld9T8RNAizuTb_IS "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(6) 實例分割篇：HRNet](https://youtu.be/NEPINAMEjpM?si=lfRjnfV8fT2AuP4a "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
@@ -294,6 +295,9 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[MATLAB Integration(1) - 深度學習模型 TensorFlow/PyTorch/ONNX整合](https://www.youtube.com/watch?v=zlpyDuOIsLs "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(2) - 在MATLAB中使用Python Code](https://www.youtube.com/watch?v=KBsTRPpvo3M "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(3) - 在Python中使用MATLAB](https://www.youtube.com/watch?v=2H57hKkQevE "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+|[MATLAB Integration(4) - Compiler](https://youtu.be/CphzcqYFVH4?si=q6X3rYqMyzhEhwJL "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
+
+
 
 | Blog文章標題 |
 |------|
