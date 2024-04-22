@@ -10,8 +10,8 @@ AI and image learning map
 * [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
 * [Anomaly Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-anomaly-detection-)
 * [Deep Learning Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
-* [Deep Pose Estimation]  
-* [Deep Tracking]  
+* [Deep Pose Estimation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Pose-Estimation-)  
+* [Deep Tracking](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Tracking-)    
 
 ### MATLAB Integration
 
