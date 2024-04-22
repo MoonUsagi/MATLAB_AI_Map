@@ -35,8 +35,8 @@ AI and image learning map
 * [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
 * [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
 * [@AOI_Lab](https://github.com/MoonUsagi/AOI_Lab "link") 
-* [@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
 * [@RL_Lab] 
+* [@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
 * [@GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
 
 ------
@@ -87,6 +87,8 @@ If you have already gained a preliminary understanding from the above and know h
 |[MATLAB深度學習之四(上)(Transfer Learning)](https://youtu.be/v0ZwOiQhpi4 "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之四(中)(Transfer Learning)](https://youtu.be/YUY2KhgGWuw "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之四(下)(Transfer Learning)](https://youtu.be/s8JfMbs_CSw "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[(no yet VIT)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[(New Transfer Learning)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 
 ------
   
@@ -104,6 +106,7 @@ Visualizing a pre-trained model, especially generating heatmaps, can help us und
 |[MATLAB深度學習之九(4)深度學習分類可視化：Gradient Attribution](https://youtu.be/cliegS5uZuc "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之九(5)深度學習分類可視化：LIME](https://youtu.be/SsUwRYGRt7E "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之九(6)深度學習分類可視化：Occlusion](https://youtu.be/AdV-Ii0hfxM "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[物件偵測可視化：D-RISE]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
