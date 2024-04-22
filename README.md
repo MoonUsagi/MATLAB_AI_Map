@@ -87,7 +87,7 @@ If you have already gained a preliminary understanding from the above and know h
 |[MATLAB深度學習之四(上)(Transfer Learning)](https://youtu.be/v0ZwOiQhpi4 "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之四(中)(Transfer Learning)](https://youtu.be/YUY2KhgGWuw "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[MATLAB深度學習之四(下)(Transfer Learning)](https://youtu.be/s8JfMbs_CSw "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[(no yet VIT)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[(VIT)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 |[(New Transfer Learning)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
 
 ------
