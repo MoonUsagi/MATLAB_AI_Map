@@ -18,7 +18,7 @@ AI Self Learning Map
 
 ### Deep Learning for Other
 
-* [Numerical & Signal & Audio]()
+* [Numerical & Signal & Audio](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Numerical-)
 * [Large Language Model]()
 * [Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 
@@ -290,16 +290,15 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
 
-## Deep Learning Exten <a name="DL_Exten"/>
+## Deep Learning Numerical <a name="DL_Num"/>
    
-基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
-　　
+基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。  
+  
 **深度學習數值：Numerical & Signal & Audio:**  
 | 文章 | GiuHub專案 |
 |------|:---:|
 |[深度學習數值：DL_Num]( https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%95%B8%E5%80%BC-dl-num-a838c1e41ad2 "link")|[DL_Num](https://github.com/MoonUsagi/DL_Num "link")|
-| Youtube影片 |
-|||
+
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
