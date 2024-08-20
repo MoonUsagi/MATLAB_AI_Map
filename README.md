@@ -175,7 +175,7 @@ Ending the previous section on deep learning classification, this chapter will d
 |[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 |[YOLOX Inference](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|Medium文章(介紹論文與流程實驗數據文章)||
+| Medium文章(介紹論文與流程實驗數據文章) |
 |[YOLOX (MATLAB 2023b)](https://medium.com/@FredLiu_/yolox-matlab-2023b-1987f2b3aa05"link")|
   
 
@@ -229,12 +229,12 @@ After concluding the section on semantic segmentation, this paragraph will move 
 **深度學習影像進階：Inference :** 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[深度學習系列之十(1) 物件偵測篇：YOLOX(2023b更新)檢測效果展示](https://youtu.be/KBQc0f5fH58?si=T3RVVFImWaJEuZkB "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(2) 物件偵測篇：YOLOX(Demo Inference)](https://youtu.be/TDf8SHRFrCU?si=GXv1zqN8hOqPBPe3 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(3) 實例分割篇：SOLOv2(2023b更新)](https://youtu.be/CqLdOKNson8?si=5f3Mb5LEDXy6i71X "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)](https://youtu.be/U-9MKdPHaac?si=sLU0Om4EG59St8dL "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(5) 物件偵測篇：SOLOv2 (五行Inference)](https://youtu.be/E0wst5Dxs2U?si=ld9T8RNAizuTb_IS "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[深度學習系列之十(6) 實例分割篇：HRNet](https://youtu.be/NEPINAMEjpM?si=lfRjnfV8fT2AuP4a "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[深度學習系列之十(1) 物件偵測篇：YOLOX(2023b更新)檢測效果展示](https://youtu.be/KBQc0f5fH58?si=T3RVVFImWaJEuZkB "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[深度學習系列之十(2) 物件偵測篇：YOLOX(Demo Inference)](https://youtu.be/TDf8SHRFrCU?si=GXv1zqN8hOqPBPe3 "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[深度學習系列之十(3) 實例分割篇：SOLOv2(2023b更新)](https://youtu.be/CqLdOKNson8?si=5f3Mb5LEDXy6i71X "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)](https://youtu.be/U-9MKdPHaac?si=sLU0Om4EG59St8dL "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[深度學習系列之十(5) 物件偵測篇：SOLOv2 (五行Inference)](https://youtu.be/E0wst5Dxs2U?si=ld9T8RNAizuTb_IS "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[深度學習系列之十(6) 實例分割篇：HRNet](https://youtu.be/NEPINAMEjpM?si=lfRjnfV8fT2AuP4a "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
@@ -249,9 +249,9 @@ In this section, we will focus on introducing some commonly used functionalities
 **深度學習影像專家：文字區域＆字元(OCR)＆條碼辨識:**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之十一(1)文字辨識(Text Detection)](https://youtu.be/fOl85S2SSw0 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之十一(2)New OCR(DL Base)](https://youtu.be/bZVOEviIcQE "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之十一(3)Barcode檢測(一維與二維條碼)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之十一(1)文字辨識(Text Detection)](https://youtu.be/fOl85S2SSw0 "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之十一(2)New OCR(DL Base)](https://youtu.be/bZVOEviIcQE "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之十一(3)Barcode檢測(一維與二維條碼)]( "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
     
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
@@ -266,7 +266,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 **深度學習影像進階：異常偵測(Anomaly Detection):**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
   
 | Blog文章標題 |
 |------|
