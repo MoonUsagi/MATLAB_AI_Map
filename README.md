@@ -290,7 +290,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
 
-## Deep Learning Numerical <a name="DL_Num"/>
+## Deep Learning Numerical & Signal & Audio <a name="DL_Num"/>
    
 基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。  
   
@@ -304,14 +304,15 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
 
-## Deep Learning Exten <a name="DL_Exten"/>
+## Large Language Model <a name="DL_LLM"/>
    
 基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
 　　
-**深度學習擴充：DL_Exten:**  
+**深度學習擴充：LLM:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=xzPlpYXWM4QWVkGf "link")|[DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|
+|[MATLAB深度學習之十三：LLMs with MATLAB]( https://youtu.be/reYhAnXMKRU?si=ltyGintjB16XidnD "link")|[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab "link")|
+|[MATLAB中使用LLM，在ChatGPT詢問MATLAB]( https://youtu.be/ANYWtf1olYg?si=gudbGp6p7wE0uPHu "link")|[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab "link")|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
