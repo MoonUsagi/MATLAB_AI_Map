@@ -16,13 +16,11 @@ AI Self Learning Map
 * [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
 * [Deep Tracking and Pose Estimation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Tracking-)    
 
-
 ### Deep Learning for Other
 
 * [Numerical & Signal & Audio]()
 * [Large Language Model]()
 * [Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
-
 
 ### MATLAB AI Integration
 
@@ -46,7 +44,6 @@ AI Self Learning Map
 * [DL_Num](https://github.com/MoonUsagi/DL_Num "link") 
 * [DL_LLM](https://github.com/matlab-deep-learning/llms-with-matlab "link") 
 * [@RL_Lab] 
-
 * [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
 * [GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
 
@@ -293,6 +290,34 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
 
+## Deep Learning Exten <a name="DL_Exten"/>
+   
+基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
+　　
+**深度學習數值：Numerical & Signal & Audio:**  
+| 文章 | GiuHub專案 |
+|------|:---:|
+|[深度學習數值：DL_Num]( https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%95%B8%E5%80%BC-dl-num-a838c1e41ad2 "link")|[DL_Num](https://github.com/MoonUsagi/DL_Num "link")|
+| Youtube影片|
+|||
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
+
+------
+
+## Deep Learning Exten <a name="DL_Exten"/>
+   
+基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
+　　
+**深度學習擴充：DL_Exten:**  
+| Youtube影片標題 | GiuHub專案 |
+|------|:---:|
+|[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=xzPlpYXWM4QWVkGf "link")|[DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|
+
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
+
+------
 
 ## Deep Learning Exten <a name="DL_Exten"/>
    
@@ -310,27 +335,10 @@ In this chapter, we will explore how to use the latest anomaly detection models 
   
 
 
-
-
   
 ## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
-深度學習進階(架構設計)＠DL_Exten系列 
-
-深度學習進階(自定義層)＠DL_Exten系列 
-
-深度學習進階(Auto Labeling)＠DL_Exten系列 
-
-Image Captioning＠DL_Exten系列 
-
-GAN(生成對抗網路)＠DL_Exten系列 
-
-14.1 Verification@DL_Exten系列
-
-15.1 DL>數值@DL_Exten系列
-
-15.2 DL>訊號@DL_Exten系列
-
-16.1 強化學習@RL_Lab系列
+  
+強化學習@RL_Lab系列
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
