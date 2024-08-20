@@ -175,10 +175,7 @@ Ending the previous section on deep learning classification, this chapter will d
 |[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 |[YOLOX Inference](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-  
-**深度學習影像進階：物件偵測(介紹論文與流程實驗數據文章):**  
-| Blog文章標題 |
-|------|
+|深度學習影像進階：物件偵測(介紹論文與流程實驗數據文章)|
 |[YOLOX (MATLAB 2023b)](https://medium.com/@FredLiu_/yolox-matlab-2023b-1987f2b3aa05"link")|
   
 
