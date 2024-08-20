@@ -306,7 +306,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ## Large Language Model <a name="DL_LLM"/>
    
-基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
+基於在深度學習的LLM使用方式　
 　　
 **深度學習擴充：LLM:**  
 | Youtube影片標題 | GiuHub專案 |
