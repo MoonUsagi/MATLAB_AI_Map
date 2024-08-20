@@ -1,6 +1,10 @@
 # AI_Map
 AI learning map  
 
+### AI Version Update
+
+* [AI Update](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-classification-)
+
 ### Deep Learning for Image
 
 * [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-classification-)
@@ -42,11 +46,27 @@ AI learning map
 * [DL_LLM](https://github.com/matlab-deep-learning/llms-with-matlab "link") 
 * [@RL_Lab] 
 
-* [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
-* [@GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
+* [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
+* [GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
 
 
 ------
+## AI Update <a name="AIUpdate"/>
+各版本AI更新介紹
+  
+**影片與文章介紹:**  
+| 文章標題 | 類別 |
+|------|:---:|
+| [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|
+| [MATLAB 2024a AI update(LLMs、訊號、音訊、光達、強化學習)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-llms-%E8%A8%8A%E8%99%9F%E9%9F%B3%E8%A8%8A%E9%80%9A%E8%A8%8A-a05118f46ec8 "link")|[文章]|
+| [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|
+
+
+
+[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
+
+------
+  
 
 ## Deep Learning Image Classification <a name="ImageClassification"/>
 當你初步踏入深度學習領域時，以下這幾個影片與程式碼專案可以成為你學習的起點，幫助你快速了解深度學習的基本概念和應用：
@@ -256,7 +276,8 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 ------
   
 ## Deep Learning Tracking amd Pose Estimation<a name="DeepLearning"/>
-深度學習系列之十四
+  
+深度追蹤演算法與姿體偵測。
 
 **深度學習影像進階：Deep Tracking :** 
 | Youtube影片標題 | GiuHub專案 |
