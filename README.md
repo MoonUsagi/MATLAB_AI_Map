@@ -19,8 +19,8 @@ AI Self Learning Map
 
 ### Deep Learning for Other
 
-* [Numerical & Signal & Audio](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
-* [Large Language Model](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
+* [Numerical & Signal & Audio]()
+* [Large Language Model]()
 * [Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 
 
@@ -40,8 +40,8 @@ AI Self Learning Map
 * [AOI_Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main)
 
 ### Deep Learning Code Project Link
-* [DL_Basic(DeepLearning_Classification)](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
-* [DL_Adviance(RabbitDetect)](https://github.com/MoonUsagi/RabbitDetect "link") 
+* [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
+* [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link") 
 * [DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
 * [DL_Num](https://github.com/MoonUsagi/DL_Num "link") 
 * [DL_LLM](https://github.com/matlab-deep-learning/llms-with-matlab "link") 
@@ -100,10 +100,10 @@ When you are just starting out in the field of deep learning, the following vide
 **深度學習初始介紹:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-| [在MATLAB中安裝Pretrained Deep Learning Mode](https://youtu.be/ZPCNmTxV5K8 "link")| [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") |
-| [使用五行程式碼，快速在MATLAB中使用深度學習模型](https://www.youtube.com/watch?v=fjjnGmvZxc0 "link")| [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") |
-| [不用寫code，快速在MATLAB中使用Transfer Learning App，來建立屬於你的深度學習模型！](https://youtu.be/7qlJgBoSnKA "link")   |  [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")  |
-| [Deep Network Designer(開發深度學習架構，並且進行訓練)](https://youtu.be/AQw3DC7FK1Y "link") | [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")| 
+| [在MATLAB中安裝Pretrained Deep Learning Mode](https://youtu.be/ZPCNmTxV5K8 "link")| [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link") |
+| [使用五行程式碼，快速在MATLAB中使用深度學習模型](https://www.youtube.com/watch?v=fjjnGmvZxc0 "link")| [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton"link") |
+| [不用寫code，快速在MATLAB中使用Transfer Learning App，來建立屬於你的深度學習模型！](https://youtu.be/7qlJgBoSnKA "link")   |  [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")  |
+| [Deep Network Designer(開發深度學習架構，並且進行訓練)](https://youtu.be/AQw3DC7FK1Y "link") | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")| 
 
 ------
   
@@ -115,14 +115,14 @@ If you have already gained a preliminary understanding from the above and know h
 **深度學習影像入門：分類與遷移式學習**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之一(Classification)](https://youtu.be/5kvmg2uCpdE "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之二(Classification)](https://youtu.be/nNCa8rU5Jms "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之三(Classification)](https://youtu.be/Yg8hlyjPO5Q "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之四(上)(Transfer Learning)](https://youtu.be/v0ZwOiQhpi4 "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之四(中)(Transfer Learning)](https://youtu.be/YUY2KhgGWuw "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之四(下)(Transfer Learning)](https://youtu.be/s8JfMbs_CSw "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[(VIT)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[(New Transfer Learning)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之一(Classification)](https://youtu.be/5kvmg2uCpdE "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之二(Classification)](https://youtu.be/nNCa8rU5Jms "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之三(Classification)](https://youtu.be/Yg8hlyjPO5Q "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之四(上)(Transfer Learning)](https://youtu.be/v0ZwOiQhpi4 "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之四(中)(Transfer Learning)](https://youtu.be/YUY2KhgGWuw "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之四(下)(Transfer Learning)](https://youtu.be/s8JfMbs_CSw "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[(VIT)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[(New Transfer Learning)]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
 
 ------
   
@@ -134,13 +134,13 @@ Visualizing a pre-trained model, especially generating heatmaps, can help us und
 **深度學習影像進階：分類可視化**
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之九(1)深度學習分類可視化：什麼是模型可視化](https://youtu.be/XpnCzsBvMQQ "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(2)深度學習分類可視化：Deep Dream](https://youtu.be/zDbv-fNAvn4 "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(3)深度學習分類可視化：GradCam](https://youtu.be/30t-ARZNDjA "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(4)深度學習分類可視化：Gradient Attribution](https://youtu.be/cliegS5uZuc "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(5)深度學習分類可視化：LIME](https://youtu.be/SsUwRYGRt7E "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[MATLAB深度學習之九(6)深度學習分類可視化：Occlusion](https://youtu.be/AdV-Ii0hfxM "link")|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
-|[物件偵測可視化：D-RISE]|[@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link")|
+|[MATLAB深度學習之九(1)深度學習分類可視化：什麼是模型可視化](https://youtu.be/XpnCzsBvMQQ "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton"link")|
+|[MATLAB深度學習之九(2)深度學習分類可視化：Deep Dream](https://youtu.be/zDbv-fNAvn4 "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之九(3)深度學習分類可視化：GradCam](https://youtu.be/30t-ARZNDjA "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之九(4)深度學習分類可視化：Gradient Attribution](https://youtu.be/cliegS5uZuc "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之九(5)深度學習分類可視化：LIME](https://youtu.be/SsUwRYGRt7E "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[MATLAB深度學習之九(6)深度學習分類可視化：Occlusion](https://youtu.be/AdV-Ii0hfxM "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
+|[物件偵測可視化：D-RISE]|[@DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
