@@ -1,7 +1,7 @@
-# AI_Images_Map
-AI and image learning map  
+# AI_Map
+AI learning map  
 
-### Deep Learning
+### Deep Learning for Image
 
 * [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-classification-)
 * [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-object-detection-)
@@ -9,9 +9,18 @@ AI and image learning map
 * [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-instance-segmentation-)
 * [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
 * [Anomaly Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-anomaly-detection-)
+* [Deep Tracking and Pose Estimation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Tracking-)    
+
+### Deep Learning for Other
+
+* [DL_Num]
+* [DL_LLM]
 * [Deep Learning Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
-* [Deep Pose Estimation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Pose-Estimation-)  
-* [Deep Tracking](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Tracking-)    
+
+### Machine Learning
+
+* [ClassIfication Learner]()
+* [Regression Learner]()
 
 ### MATLAB Integration
 
@@ -35,9 +44,10 @@ AI and image learning map
 * [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
 * [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
 * [@AOI_Lab](https://github.com/MoonUsagi/AOI_Lab "link") 
-* [@RL_Lab] 
 * [@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
+* [@DL_Num](https://github.com/MoonUsagi/DL_Num "link") 
 * [@GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
+* [@RL_Lab] 
 
 ------
 
@@ -138,9 +148,9 @@ Ending the previous section on deep learning classification, this chapter will d
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[使用五行程式碼，快速執行YOLOv4於MATLAB中：YOLOv4](https://youtu.be/hJrZg94y8vA "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[YOLOX Inference](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[YOLOX Inference](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
   
 **深度學習影像進階：物件偵測(介紹論文與流程實驗數據文章):**  
 | Blog文章標題 |
@@ -248,31 +258,18 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
   
-## Deep Learning Pose Estimation <a name="DeepLearningPoseEstimation"/>
-深度學習系列之十三
-
-**深度學習影像進階：Deep Pose Estimation :** 
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-Deep Pose Estimation
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Deep Learning Tracking <a name="DeepLearning"/>
+## Deep Learning Tracking amd Pose Estimation<a name="DeepLearning"/>
 深度學習系列之十四
 
 **深度學習影像進階：Deep Tracking :** 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-Deep Tracking
+|[Tracking and Motion Estimation(1)](https://youtu.be/tzncUlQfgMs?si=KbrGyPUZKfMRP48M"link")||
+|[Tracking and Motion Estimation(2)](https://youtu.be/xENfpLsNwh0?si=yLz8jnZ8pISY4Wva"link")||
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
-
-
 
 
 ## Deep Learning Exten <a name="DL_Exten"/>
