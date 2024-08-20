@@ -298,7 +298,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 | 文章 | GiuHub專案 |
 |------|:---:|
 |[深度學習數值：DL_Num]( https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%95%B8%E5%80%BC-dl-num-a838c1e41ad2 "link")|[DL_Num](https://github.com/MoonUsagi/DL_Num "link")|
-| Youtube影片|
+| Youtube影片 |
 |||
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
