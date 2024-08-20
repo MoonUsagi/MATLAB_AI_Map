@@ -1,6 +1,7 @@
 # AI_Map
-AI learning map  
-
+AI Self Learning Map
+    
+  
 ### AI Version Update
 
 * [AI Update](https://github.com/MoonUsagi/AI_Images_Map#AI-Update-)
@@ -52,14 +53,14 @@ AI learning map
 
 ------
 ## AI Update <a name="AIUpdate"/>
-各版本AI更新介紹
+各版本版本AI更新介紹
   
 **影片與文章介紹:**  
-| 文章標題 | 類別 |
-|------|:---:|
-| [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|
-| [MATLAB 2024a AI update(LLMs、訊號、音訊、光達、強化學習)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-llms-%E8%A8%8A%E8%99%9F%E9%9F%B3%E8%A8%8A%E9%80%9A%E8%A8%8A-a05118f46ec8 "link")|[文章]|
-| [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|
+| 文章標題 | 類別 |版本|
+|------|:---:|:---:|
+| [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|[2024a]|
+| [MATLAB 2024a AI update(LLMs、訊號、音訊、光達、強化學習)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-llms-%E8%A8%8A%E8%99%9F%E9%9F%B3%E8%A8%8A%E9%80%9A%E8%A8%8A-a05118f46ec8 "link")|[文章]|[2024a]|
+| [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|[2024a]|
 
 
 
