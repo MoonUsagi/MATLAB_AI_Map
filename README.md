@@ -7,47 +7,44 @@ AI learning map
 * [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-object-detection-)
 * [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-semantic-segmentation-)
 * [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-instance-segmentation-)
-* [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
 * [Anomaly Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-anomaly-detection-)
+* [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
 * [Deep Tracking and Pose Estimation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Tracking-)    
+
 
 ### Deep Learning for Other
 
-* [DL_Num]
-* [DL_LLM]
+* [Deep Learning Numerical](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
+* [Deep Learning Large Language Model](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 * [Deep Learning Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 
-### Machine Learning
 
-* [ClassIfication Learner]()
-* [Regression Learner]()
-
-### MATLAB Integration
+### MATLAB AI Integration
 
 * [Integration with Python](https://github.com/MoonUsagi/AI_Images_Map#matlab-integration-with-python-)
 * [Integration with Software(Compiler & Compiler SDK)](https://github.com/MoonUsagi/AI_Images_Map#integration-with-softwarecompiler--compiler-sdk-)
 * [Integration with Hardware(GPU,ARM,FPGA)](https://github.com/MoonUsagi/AI_Images_Map#matlab-integration-with-hardware-)
 
-### MATLAB APPs
+### No Code & Low Code APPs
 * [MATLAB Image APPs:](https://github.com/MoonUsagi/AI_Images_Map#matlab-image-apps-)
 * [MATLAB Deep Leanring APPs:](https://github.com/MoonUsagi/AI_Images_Map#matlab-deep-leanring-apps-)
 * [Customized APPs](https://github.com/MoonUsagi/AI_Images_Map#customized-apps-)
 
-### Image Processing & Computer Vision
+### Image Processing & Computer Vision Code Project Link
 * [IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab)
 * [AOI_Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main)
 
-
-### Code Project
-* [@DeepLearning_Classification](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
-* [@RabbitDetect(Object Detect & Image Segment)](https://github.com/MoonUsagi/RabbitDetect "link") 
-* [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
-* [@IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab "link") 
-* [@AOI_Lab](https://github.com/MoonUsagi/AOI_Lab "link") 
-* [@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
-* [@DL_Num](https://github.com/MoonUsagi/DL_Num "link") 
-* [@GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
+### Deep Learning Code Project Link
+* [DL_Basic(DeepLearning_Classification)](https://github.com/MoonUsagi/DeepLearning_Classificaiton "link") 
+* [DL_Adviance(RabbitDetect)](https://github.com/MoonUsagi/RabbitDetect "link") 
+* [DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
+* [DL_Num](https://github.com/MoonUsagi/DL_Num "link") 
+* [DL_LLM](https://github.com/matlab-deep-learning/llms-with-matlab "link") 
 * [@RL_Lab] 
+
+* [@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
+* [@GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
+
 
 ------
 
