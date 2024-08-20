@@ -19,7 +19,7 @@ AI Self Learning Map
 
 ### Deep Learning for Other
 
-* [Numerical& Signal & Audio](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
+* [Numerical & Signal & Audio](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 * [Large Language Model](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 * [Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 
@@ -61,9 +61,7 @@ AI Self Learning Map
 | [MATLAB 2024a AI更新介紹](https://youtu.be/RA6n_7yd40E?si=_lT2-ISEkYDt2VF6 "link")|[影片]|[2024a]|
 | [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|[2024a]|
 | [MATLAB 2024a AI update(LLMs、訊號、音訊、光達、強化學習)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-llms-%E8%A8%8A%E8%99%9F%E9%9F%B3%E8%A8%8A%E9%80%9A%E8%A8%8A-a05118f46ec8 "link")|[文章]|[2024a]|
-
-| 文章標題 | 類別 |版本2023b|
-|------|:---:|:---:|
+|2023版本|
 | [MATLAB 2023b AI更新介紹](https://youtu.be/TAoXGqqNzek?si=uyLRfFz9cunVy1yG "link")|[影片]|[2023b]|
 | [MATLAB 2023b AI update-Image & Computer Vision Update](https://medium.com/@FredLiu_/matlab-2023b-ai-update-%E4%B8%AD-105d651190d0 "link")|[文章]|[2023b]|
 | [MATLAB 2023b AI update - Team Labeler](https://medium.com/@FredLiu_/matlab-2023b-ai-update-%E4%B8%8A-ac6cd8012066 "link")|[文章]|[2023b]|
