@@ -3,7 +3,7 @@ AI learning map
 
 ### AI Version Update
 
-* [AI Update](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-classification-)
+* [AI Update](https://github.com/MoonUsagi/AI-Update-)
 
 ### Deep Learning for Image
 
