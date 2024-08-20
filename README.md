@@ -175,7 +175,7 @@ Ending the previous section on deep learning classification, this chapter will d
 |[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 |[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 |[YOLOX Inference](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|深度學習影像進階：物件偵測(介紹論文與流程實驗數據文章)|Medium文章|
+|Medium文章(介紹論文與流程實驗數據文章)||
 |[YOLOX (MATLAB 2023b)](https://medium.com/@FredLiu_/yolox-matlab-2023b-1987f2b3aa05"link")|
   
 
@@ -193,10 +193,10 @@ Following the completion of the object detection section, this paragraph will de
 **深度學習影像進階：語意分割:**  
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之七(1)RabbitDetect語意分割篇：資料標記](https://youtu.be/ZKXTZ0RCYWg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之七(2)RabbitDetect語意分割篇：標記與載入其他格式檔案](https://youtu.be/11DiP35W-dg "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(上篇)](https://youtu.be/v02Np1_q08o "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(下篇)](https://youtu.be/LzbrKeMOnDY "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之七(1)RabbitDetect語意分割篇：資料標記](https://youtu.be/ZKXTZ0RCYWg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之七(2)RabbitDetect語意分割篇：標記與載入其他格式檔案](https://youtu.be/11DiP35W-dg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(上篇)](https://youtu.be/v02Np1_q08o "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(下篇)](https://youtu.be/LzbrKeMOnDY "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
@@ -211,12 +211,12 @@ After concluding the section on semantic segmentation, this paragraph will move 
 **深度學習影像進階：實例分割:** 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
-|[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference](https://youtu.be/sPa4UHyq65Y)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案](https://youtu.be/6nNKu2qjWcQ)|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN](https://youtu.be/ehov2aTgesU "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)](https://youtu.be/_lNHy4jLp00 "link")|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
-|[(no yet)MATLAB深度學習之八(6)RabbitDetect實例分割篇：SOLOv2]()|[@RabbitDetect](https://github.com/MoonUsagi/RabbitDetect "link")|
+|[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference](https://youtu.be/sPa4UHyq65Y)|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案](https://youtu.be/6nNKu2qjWcQ)|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN](https://youtu.be/ehov2aTgesU "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)](https://youtu.be/_lNHy4jLp00 "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
+|[(no yet)MATLAB深度學習之八(6)RabbitDetect實例分割篇：SOLOv2]()|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
 
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
