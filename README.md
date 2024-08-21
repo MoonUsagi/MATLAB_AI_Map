@@ -309,11 +309,11 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 基於在深度學習的LLM使用方式　
 　　
 **深度學習擴充：LLM:**  
-| Youtube影片標題 | GiuHub專案 |
+| 項目 | 類型 |
 |------|:---:|
-|[MATLAB深度學習之十三：LLMs with MATLAB]( https://youtu.be/reYhAnXMKRU?si=ltyGintjB16XidnD "link")|[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab "link")|
-|[MATLAB中使用LLM，在ChatGPT詢問MATLAB]( https://youtu.be/ANYWtf1olYg?si=gudbGp6p7wE0uPHu "link")|[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab "link")|
-
+|[MATLAB深度學習之十三：LLMs with MATLAB]( https://youtu.be/reYhAnXMKRU?si=ltyGintjB16XidnD "link")|[文章]|
+|[MATLAB中使用LLM，在ChatGPT詢問MATLAB]( https://youtu.be/ANYWtf1olYg?si=gudbGp6p7wE0uPHu "link")|[文章]|
+|[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab "link")|[Github專案]|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
@@ -324,10 +324,11 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
 　　
 **深度學習擴充：DL_Exten:**  
-| Youtube影片標題 | GiuHub專案 |
+| 項目 | 類型 |
 |------|:---:|
-|[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=xzPlpYXWM4QWVkGf "link")|[@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|
-
+|[深度學習擴充：DL_Exten](https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%93%B4%E5%85%85-dl-exten-70f7f559a443)|[文章]|
+|[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=x06bG3AtCfASd9nO "link")|[影片]|
+|[@DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|[Github專案]|
 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
 
