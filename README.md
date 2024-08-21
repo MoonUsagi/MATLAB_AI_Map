@@ -72,7 +72,7 @@ AI Self Learning Map
 ------
   
 
-## Deep Learning Image Classification <a name="ImageClassification"/>
+## Deep Learning for Image Classification <a name="ImageClassification"/>
 當你初步踏入深度學習領域時，以下這幾個影片與程式碼專案可以成為你學習的起點，幫助你快速了解深度學習的基本概念和應用：
 
 1.在MATLAB中安裝Pretrained Deep Learning Mode：這個影片會向你介紹在MATLAB中深度學習的模型該如何下載。
@@ -143,7 +143,7 @@ Visualizing a pre-trained model, especially generating heatmaps, can help us und
 
 ------
   
-## Deep Learning Image Object Detection <a name="ImageObjectDetection"/>
+## Deep Learning for Object Detection <a name="ImageObjectDetection"/>
 結束上段的深度學習分類，此章節會進入深度學習物件偵測的領域，在此段落會介紹如何使用MATLAB中的各種物件偵測模型進行辨識，
 從標記影像、訓練模型、透過雲端來進行訓練最後實現並且進行加速。
   
@@ -181,7 +181,7 @@ Ending the previous section on deep learning classification, this chapter will d
 
 ------
   
-## Deep Learning Image Semantic Segmentation <a name="ImageSemanticSegmentation"/>
+## Deep Learning for Semantic Segmentation <a name="ImageSemanticSegmentation"/>
 結束上段的物件偵測後，此段落會進入到物件切割中的語意分割，在此所需要花費在標記的時間會更多一些，因為標記的東西開始不是個簡單
 的方框，而會是一些複雜的形狀或是多邊形，因此在訓練上的效能所需也會更多一些，這邊目前是先介紹DeepLabv3+，日後再新增Unet的介紹。
 
@@ -199,7 +199,7 @@ Following the completion of the object detection section, this paragraph will de
 
 ------
   
-## Deep Learning Image Instance Segmentation <a name="ImageInstanceSegmentation"/>
+## Deep Learning for Instance Segmentation <a name="ImageInstanceSegmentation"/>
 結束語意分割後，此段落會進入物件切割中的實例分割，主要會介紹怎麼在MATLAB中使用MaskRCNN，並且從標記影像就開始做介紹到訓練
 與實現被訓練好的模型。
 　　
@@ -304,7 +304,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
 
-## Large Language Model <a name="DL_LLM"/>
+## Deep Learning Large Language Model <a name="DL_LLM"/>
    
 基於在深度學習的LLM使用方式　
 　　
@@ -333,8 +333,6 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 
 ------
   
-
-
   
 ## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
   
