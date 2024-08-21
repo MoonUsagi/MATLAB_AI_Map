@@ -350,10 +350,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 |[MATLAB Integration(1) - 深度學習模型 TensorFlow/PyTorch/ONNX整合](https://www.youtube.com/watch?v=zlpyDuOIsLs "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(2) - 在MATLAB中使用Python Code](https://www.youtube.com/watch?v=KBsTRPpvo3M "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
 |[MATLAB Integration(3) - 在Python中使用MATLAB](https://www.youtube.com/watch?v=2H57hKkQevE "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-
-
 | Blog文章標題 |
-|------|
 |[實現整合系列第一期:MATLAB中寫Python，與TensorFlow,PyTorch整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610 "link")|
 
 
@@ -519,5 +516,3 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 [Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
 
 ------
-## Image Processing & Computer Vision <a name="MATLAB_IPCV"/>
-
