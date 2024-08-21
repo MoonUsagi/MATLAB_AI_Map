@@ -281,7 +281,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 深度追蹤演算法與姿體偵測。
 
 **深度學習影像進階：Deep Tracking :** 
-| Youtube影片標題 | GiuHub專案 |
+| Youtube影片標題 ||
 |------|:---:|
 |[Tracking and Motion Estimation(1)](https://youtu.be/tzncUlQfgMs?si=KbrGyPUZKfMRP48M"link")||
 |[Tracking and Motion Estimation(2)](https://youtu.be/xENfpLsNwh0?si=yLz8jnZ8pISY4Wva"link")||
