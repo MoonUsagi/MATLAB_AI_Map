@@ -18,8 +18,8 @@ AI Self Learning Map
 
 ### Deep Learning for Other
 
-* [Numerical & Signal & Audio](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Numerical-&-Signal &-Audio-)
-* [Large Language Model](https://github.com/MoonUsagi/AI_Images_Map#Deep LearningLarge-Language-Model-)
+* [Numerical & Signal & Audio](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Numerical-&-Signal-&-Audio-)
+* [Large Language Model](https://github.com/MoonUsagi/AI_Images_Map#Deep-LearningLarge-Language-Model-)
 * [Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
 
 ### MATLAB AI Integration
