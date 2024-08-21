@@ -395,10 +395,7 @@ In this chapter, we will explore how to use the latest anomaly detection models 
 | Youtube影片標題 | GiuHub專案 |
 |------|:---:|
 |[MATLAB Integration(７) - GPU Coder(上)](https://youtu.be/dNSdl5UEucw?si=YoLBy14JrvGa4GCl "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-  
-
 | Blog文章標題 |
-|------|
 |[MATLAB實現整合系列第四期：GPU Coder（上）](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E5%9B%9B%E6%9C%9F-gpu-coder-%E4%B8%8A-5494492adcd4 "link")|
 
   
