@@ -1,518 +1,455 @@
-# MATLAB AI_Map
-MATLAB AI Self Learning Map
-    
-  
-### AI Version Update
+# MATLAB AI 學習地圖
+
+一份以 MATLAB 為核心的人工智慧學習資源索引，涵蓋影像分類、物件偵測、影像分割、異常偵測、OCR、訊號與音訊、LLM、Python 整合、程式部署，以及低程式碼 App。
+
+本專案將教學影片、文章與範例程式集中整理成一條可循序學習的路徑。你可以從預訓練模型與推論開始，再逐步進入資料標註、遷移學習、模型訓練、可解釋 AI、跨語言整合與邊緣裝置部署。
+
+> [!NOTE]
+> 部分資源建立於較早的 MATLAB 版本，介面、函式名稱或模型支援情況可能因版本而異。實作前請確認影片或文章所標示的版本與所需 Toolbox。
+
+## 適合對象
+
+- 想以 MATLAB 入門機器學習、深度學習或電腦視覺的學習者
+- 需要快速找到 AI 範例、教學影片與程式碼的工程師
+- 從影像處理延伸至物件偵測、影像分割或視覺檢測的開發者
+- 想整合 MATLAB、Python、TensorFlow、PyTorch 或 ONNX 的使用者
+- 準備將模型部署至桌面程式、GPU 或 Jetson 裝置的團隊
 
-* [AI Update](https://github.com/MoonUsagi/AI_Images_Map#AI-Update-)
+## 建議學習路徑
+
+1. **快速入門**：下載預訓練模型，完成第一次影像分類推論。
+2. **模型訓練**：學習資料整理、標註、遷移學習與從頭訓練。
+3. **進階視覺任務**：依需求進入物件偵測、語意分割、實例分割或異常偵測。
+4. **模型理解**：使用 Grad-CAM、LIME、Occlusion 等方法解讀預測結果。
+5. **系統整合**：串接 Python、封裝應用程式，或產生可部署程式碼。
+6. **硬體部署**：將模型部署至 GPU、Jetson Nano、ARM 或 FPGA。
+
+## 目錄
+
+- [MATLAB 版本與 AI 更新](#matlab-版本與-ai-更新)
+- [影像分類](#影像分類)
+- [物件偵測](#物件偵測)
+- [語意分割](#語意分割)
+- [實例分割](#實例分割)
+- [模型推論與展示](#模型推論與展示)
+- [文字偵測、OCR 與條碼](#文字偵測ocr-與條碼)
+- [異常偵測與自動光學檢測](#異常偵測與自動光學檢測)
+- [追蹤、動作估測與姿態估測](#追蹤動作估測與姿態估測)
+- [數值、訊號與音訊](#數值訊號與音訊)
+- [大型語言模型](#大型語言模型)
+- [深度學習延伸主題](#深度學習延伸主題)
+- [MATLAB 與 Python 整合](#matlab-與-python-整合)
+- [軟體整合與程式碼產生](#軟體整合與程式碼產生)
+- [硬體整合與部署](#硬體整合與部署)
+- [低程式碼與圖形化 App](#低程式碼與圖形化-app)
+- [自製 App 與延伸專案](#自製-app-與延伸專案)
+- [相關程式碼專案](#相關程式碼專案)
+- [未來規劃](#未來規劃)
+
+---
+
+## MATLAB 版本與 AI 更新
+
+整理各版本與 AI、影像、訊號及 LLM 相關的重要更新，適合用來快速掌握新功能與既有工作流程的差異。
+
+| 版本 | 類型 | 資源 |
+| --- | --- | --- |
+| R2024a | 影片 | [MATLAB R2024a AI 功能更新](https://youtu.be/RA6n_7yd40E?si=_lT2-ISEkYDt2VF6) |
+| R2024a | 文章 | [MATLAB R2024a AI Update：影像](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12) |
+| R2024a | 文章 | [MATLAB R2024a AI Update：LLM、訊號、音訊與通訊](https://medium.com/@FredLiu_/matlab-2024a-ai-update-llms-%E8%A8%8A%E8%99%9F%E9%9F%B3%E8%A8%8A%E9%80%9A%E8%A8%8A-a05118f46ec8) |
+| R2023b | 影片 | [MATLAB R2023b AI 功能更新](https://youtu.be/TAoXGqqNzek?si=uyLRfFz9cunVy1yG) |
+| R2023b | 文章 | [MATLAB R2023b AI Update：影像與電腦視覺](https://medium.com/@FredLiu_/matlab-2023b-ai-update-%E4%B8%AD-105d651190d0) |
+| R2023b | 文章 | [MATLAB R2023b AI Update：Team Labeler](https://medium.com/@FredLiu_/matlab-2023b-ai-update-%E4%B8%8A-ac6cd8012066) |
+| R2023b | 文章 | [MATLAB R2023b AI Update：深度學習、機器學習、訊號與音訊](https://medium.com/@FredLiu_/matlab-2023b-ai-update-deep-learning-machine-learing-signal-audio-36b9f175aa57) |
 
-### Deep Learning for Image
+[回到目錄](#目錄)
+
+---
+
+## 影像分類
+
+影像分類是進入深度學習最直觀的起點。本章從預訓練模型、少量程式碼推論與圖形化工具開始，再延伸至多張影像分類、遷移學習、自訂模型訓練，以及模型判斷依據的視覺化。
 
-* [Image Classification](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-classification-)
-* [Object Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-object-detection-)
-* [Semantic Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-semantic-segmentation-)
-* [Instance Segmentation](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-instance-segmentation-)
-* [Anomaly Detection](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-anomaly-detection-)
-* [Text Detection & OCR & Barcode](https://github.com/MoonUsagi/AI_Images_Map#deep-learning-image-text-detection--ocr--barcode-)
-* [Deep Tracking and Pose Estimation](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Tracking-)    
-
-### Deep Learning for Other
-
-* [Numerical & Signal & Audio](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Numerical--Signal--Audio-)
-* [Large Language Model](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Large-Language-Model-)
-* [Exten](https://github.com/MoonUsagi/AI_Images_Map#Deep-Learning-Exten-)
-
-### MATLAB AI Integration
-
-* [Integration with Python](https://github.com/MoonUsagi/AI_Images_Map#matlab-integration-with-python-)
-* [Integration with Software(Compiler & Compiler SDK)](https://github.com/MoonUsagi/AI_Images_Map#integration-with-softwarecompiler--compiler-sdk-)
-* [Integration with Hardware(GPU,ARM,FPGA)](https://github.com/MoonUsagi/AI_Images_Map#matlab-integration-with-hardware-)
-
-### No Code & Low Code APPs
-* [MATLAB Image APPs:](https://github.com/MoonUsagi/AI_Images_Map#matlab-image-apps-)
-* [MATLAB AI APPs:](https://github.com/MoonUsagi/AI_Images_Map#matlab-deep-leanring-apps-)
-* [Customized APPs](https://github.com/MoonUsagi/AI_Images_Map#customized-apps-)
-
-### Image Processing & Computer Vision Code Project Link
-* [IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab)
-* [AOI_Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main)
-
-### Deep Learning Code Project Link
-* [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link") 
-* [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link") 
-* [DL_Exten](https://github.com/MoonUsagi/DL_Exten "link") 
-* [DL_Num](https://github.com/MoonUsagi/DL_Num "link") 
-* [DL_LLM](https://github.com/matlab-deep-learning/llms-with-matlab "link") 
-* [@RL_Lab] 
-* [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link") 
-* [GPU_Coder](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link") 
-
-
-------
-## AI Update <a name="AIUpdate"/>
-各版本版本AI更新介紹
-  
-**影片與文章介紹:**  
-| 文章標題 | 類別 |版本2024a|
-|------|:---:|:---:|
-|2024a|
-| [MATLAB 2024a AI更新介紹](https://youtu.be/RA6n_7yd40E?si=_lT2-ISEkYDt2VF6 "link")|[影片]|[2024a]|
-| [MATLAB 2024a AI update(影像)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-%E5%BD%B1%E5%83%8F-30abf48c7e12 "link")|[文章]|[2024a]|
-| [MATLAB 2024a AI update(LLMs、訊號、音訊、光達、強化學習)](https://medium.com/@FredLiu_/matlab-2024a-ai-update-llms-%E8%A8%8A%E8%99%9F%E9%9F%B3%E8%A8%8A%E9%80%9A%E8%A8%8A-a05118f46ec8 "link")|[文章]|[2024a]|
-|2023b|
-| [MATLAB 2023b AI更新介紹](https://youtu.be/TAoXGqqNzek?si=uyLRfFz9cunVy1yG "link")|[影片]|[2023b]|
-| [MATLAB 2023b AI update-Image & Computer Vision Update](https://medium.com/@FredLiu_/matlab-2023b-ai-update-%E4%B8%AD-105d651190d0 "link")|[文章]|[2023b]|
-| [MATLAB 2023b AI update - Team Labeler](https://medium.com/@FredLiu_/matlab-2023b-ai-update-%E4%B8%8A-ac6cd8012066 "link")|[文章]|[2023b]|
-| [MATLAB 2023b AI update- Deep Learning & Machine Learing & Signal Audio](https://medium.com/@FredLiu_/matlab-2023b-ai-update-deep-learning-machine-learing-signal-audio-36b9f175aa57 "link")|[文章]|[2023b]|
-
-
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-
-## Deep Learning for Image Classification <a name="ImageClassification"/>
-當你初步踏入深度學習領域時，以下這幾個影片與程式碼專案可以成為你學習的起點，幫助你快速了解深度學習的基本概念和應用：
-
-1.在MATLAB中安裝Pretrained Deep Learning Mode：這個影片會向你介紹在MATLAB中深度學習的模型該如何下載。
-
-2.五行程式碼快速實現：在這個影片中，你會學到如何使用只有五行程式碼的方式來實現深度學習模型的推論（inference）過程，這對初學者來說是個很好的入門練習。
-
-3.快速使用遷移式學習：遷移式學習是深度學習中常見且重要的技術，它允許你將一個已經訓練好的模型應用到新的任務上。這個影片會教你如何運用遷移式學習來加速你的深度學習應用。
-
-4.使用圖形化介面不用寫Code完成深度學習：Deep Network Designer(深度學習工具)提供圖形化的介面，讓你無需寫程式碼也能建立和訓練深度學習模型。這個影片會帶你瞭解如何使用這些工具來加速模型開發。
-  
-
-When you are just starting out in the field of deep learning, the following videos and code projects can serve as your starting point to help you quickly grasp the basic concepts and applications of deep learning:
-
-1.Installing Pretrained Deep Learning Models in MATLAB: This video will introduce you to how you can download deep learning models in MATLAB.
-
-2.Five-Liner Code for Quick Implementation: In this video, you will learn how to implement the inference process of a deep learning model using only five lines of code, which is an excellent introductory exercise for beginners.
-
-3.Quick Introduction to Transfer Learning: Transfer learning is a common and essential technique in deep learning that allows you to apply a pre-trained model to a new task. This video will teach you how to use transfer learning to speed up your deep learning applications.
-
-4.Completing Deep Learning Tasks Without Writing Code Using a Graphical Interface: Deep Network Designer (a deep learning tool) provides a graphical interface that allows you to build and train deep learning models without writing code. This video will guide you on how to use these tools to accelerate model development.
-  
-**深度學習初始介紹:**  
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-| [在MATLAB中安裝Pretrained Deep Learning Mode](https://youtu.be/ZPCNmTxV5K8 "link")| [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link") |
-| [使用五行程式碼，快速在MATLAB中使用深度學習模型](https://www.youtube.com/watch?v=fjjnGmvZxc0 "link")| [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton"link") |
-| [不用寫code，快速在MATLAB中使用Transfer Learning App，來建立屬於你的深度學習模型！](https://youtu.be/7qlJgBoSnKA "link")   |  [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")  |
-| [Deep Network Designer(開發深度學習架構，並且進行訓練)](https://youtu.be/AQw3DC7FK1Y "link") | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")| 
-
-------
-  
-如果透過上方已經了解初步概念與已經知道怎麼下載模型時，可以透過以下深度學習影像入門，完成單張影像的分類、多張影像的分類、自己從零開始訓練一個分類模型、
-使用遷移式學習來快速訓練一個新模型。 
-
-If you have already gained a preliminary understanding from the above and know how to download models, you can proceed with the following image-based introduction to deep learning. This will allow you to accomplish tasks such as single image classification, multiple image classification, training a classification model from scratch, and utilizing transfer learning to rapidly train a new model.
-  
-**深度學習影像入門：分類與遷移式學習**
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB深度學習之一(Classification)](https://youtu.be/5kvmg2uCpdE "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之二(Classification)](https://youtu.be/nNCa8rU5Jms "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之三(Classification)](https://youtu.be/Yg8hlyjPO5Q "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之四(上)(Transfer Learning)](https://youtu.be/v0ZwOiQhpi4 "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之四(中)(Transfer Learning)](https://youtu.be/YUY2KhgGWuw "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之四(下)(Transfer Learning)](https://youtu.be/s8JfMbs_CSw "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[(VIT)]|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[(New Transfer Learning)]|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-
-------
-  
-將已經訓練好的模型可視化，特別是產生模型的熱圖，可以幫助我們了解模型在進行分類預測時，對於影像中不同區域的關注程度，進而瞭解模型做出分類結果的依據，
-此章節中會介紹幾種MATLAB中支援的可視化模型。
-
-Visualizing a pre-trained model, especially generating heatmaps, can help us understand the model's attention to different regions in an image during classification prediction. This allows us to gain insights into the basis of the model's classification decisions. In this chapter, several visualization techniques supported in MATLAB will be introduced
-  
-**深度學習影像進階：分類可視化**
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB深度學習之九(1)深度學習分類可視化：什麼是模型可視化](https://youtu.be/XpnCzsBvMQQ "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton"link")|
-|[MATLAB深度學習之九(2)深度學習分類可視化：Deep Dream](https://youtu.be/zDbv-fNAvn4 "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之九(3)深度學習分類可視化：GradCam](https://youtu.be/30t-ARZNDjA "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之九(4)深度學習分類可視化：Gradient Attribution](https://youtu.be/cliegS5uZuc "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之九(5)深度學習分類可視化：LIME](https://youtu.be/SsUwRYGRt7E "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[MATLAB深度學習之九(6)深度學習分類可視化：Occlusion](https://youtu.be/AdV-Ii0hfxM "link")|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-|[物件偵測可視化：D-RISE]|[DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton "link")|
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Deep Learning for Object Detection <a name="ImageObjectDetection"/>
-結束上段的深度學習分類，此章節會進入深度學習物件偵測的領域，在此段落會介紹如何使用MATLAB中的各種物件偵測模型進行辨識，
-從標記影像、訓練模型、透過雲端來進行訓練最後實現並且進行加速。
-  
-Ending the previous section on deep learning classification, this chapter will delve into the field of deep learning object detection. In this paragraph, we will introduce how to use various object detection models available in MATLAB for recognition tasks. This includes steps such as annotating images, training the model, using cloud resources for training, and finally, implementing and accelerating the object detection process.
-  
-**深度學習影像進階：物件偵測:**  
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB深度學習之五(1)(進階標記方式)](https://youtu.be/ISzFfL-W9AE "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之五(2)自動標記：YOLOX](https://youtu.be/d1IJS6CYvQw?si=dvk3G71ll9L3Qoso "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(1)RabbitDetect物件偵測篇：資料庫介紹](https://youtu.be/6gHTFQeD8Xw "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(2)RabbitDetect物件偵測篇：標記與如何載入其他格式標記檔案](https://youtu.be/g9S0_VSfkFQ "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(3)RabbitDetect物件偵測篇：FasterRCNN](https://youtu.be/uXkvQup0pe0 "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(4)RabbitDetect物件偵測篇：SSD](https://youtu.be/VxssEJBObas "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(5)RabbitDetect物件偵測篇：YOLOv2](https://youtu.be/VC5pRCv_QCo "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(6)RabbitDetect物件偵測篇：YOLOv3](https://youtu.be/CT8diNnOkXs "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(7)RabbitDetect物件偵測篇：YOLOv4](https://youtu.be/glXUnqScaGc "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(8)RabbitDetect物件偵測篇：自定義YOLOv4架構：YOLOv4](https://youtu.be/Wzes49qzwCM "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之六(9)RabbitDetect物件偵測篇：YOLOX](https://youtu.be/zEJurTM1PUI?si=AS9Qav1JjCrh5Rlb "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-  
-  
-**深度學習影像進階：物件偵測(實現與其他):**  
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[使用五行程式碼，快速執行YOLOv4於MATLAB中：YOLOv4](https://youtu.be/hJrZg94y8vA "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[AI雲端訓練方式(使用TWCC台智雲環境)](https://youtu.be/MZcEBpZFVwg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[(No Code)Object Detection APP：YOLOv4](https://youtu.be/I3cWtTl3b3A "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[YOLOX Inference](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-| Medium文章(介紹論文與流程實驗數據文章) |
-|[YOLOX (MATLAB 2023b)](https://medium.com/@FredLiu_/yolox-matlab-2023b-1987f2b3aa05"link")|
-  
-
-  
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Deep Learning for Semantic Segmentation <a name="ImageSemanticSegmentation"/>
-結束上段的物件偵測後，此段落會進入到物件切割中的語意分割，在此所需要花費在標記的時間會更多一些，因為標記的東西開始不是個簡單
-的方框，而會是一些複雜的形狀或是多邊形，因此在訓練上的效能所需也會更多一些，這邊目前是先介紹DeepLabv3+，日後再新增Unet的介紹。
-
-Following the completion of the object detection section, this paragraph will delve into semantic segmentation in the domain of object segmentation. In semantic segmentation, the time required for annotation will be more extensive because annotations are no longer simple bounding boxes but complex shapes or polygons. Consequently, the performance demands for training will also increase. In this section, we will start by introducing DeepLabv3+, and later on, we will add an introduction to Unet as well.
-  
-**深度學習影像進階：語意分割:**  
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB深度學習之七(1)RabbitDetect語意分割篇：資料標記](https://youtu.be/ZKXTZ0RCYWg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之七(2)RabbitDetect語意分割篇：標記與載入其他格式檔案](https://youtu.be/11DiP35W-dg "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(上篇)](https://youtu.be/v02Np1_q08o "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之七(3)RabbitDetect語意分割篇：DeepLabv3+(下篇)](https://youtu.be/LzbrKeMOnDY "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Deep Learning for Instance Segmentation <a name="ImageInstanceSegmentation"/>
-結束語意分割後，此段落會進入物件切割中的實例分割，主要會介紹怎麼在MATLAB中使用MaskRCNN，並且從標記影像就開始做介紹到訓練
-與實現被訓練好的模型。
-　　
-After concluding the section on semantic segmentation, this paragraph will move on to instance segmentation in the domain of object segmentation. The main focus will be on how to use Mask R-CNN in MATLAB, covering the process from annotating images to training and implementing a trained model.
-  
-**深度學習影像進階：實例分割:** 
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB深度學習之八(1)RabbitDetect實例分割篇：MaskRCNN Inference](https://www.youtube.com/watch?v=EG78LZkvREM "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之八(2)RabbitDetect實例分割篇：資料標記：MaskRCNN Inference](https://youtu.be/sPa4UHyq65Y)|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之八(3)RabbitDetect實例分割篇：標記與載入其他格式檔案](https://youtu.be/6nNKu2qjWcQ)|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之八(4)RabbitDetect實例分割篇：訓練MaskRCNN](https://youtu.be/ehov2aTgesU "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之八(5)RabbitDetect實例分割篇：訓練MaskRCNN(訓練完後)](https://youtu.be/_lNHy4jLp00 "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[(no yet)MATLAB深度學習之八(6)RabbitDetect實例分割篇：SOLOv2]()|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Deep Learning Inference <a name="DeepLearningInference"/>
-深度學習系列之十，以Demo與Inference還有五行Inference為主)
-
-**深度學習影像進階：Inference :** 
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[深度學習系列之十(1) 物件偵測篇：YOLOX(2023b更新)檢測效果展示](https://youtu.be/KBQc0f5fH58?si=T3RVVFImWaJEuZkB "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[深度學習系列之十(2) 物件偵測篇：YOLOX(Demo Inference)](https://youtu.be/TDf8SHRFrCU?si=GXv1zqN8hOqPBPe3 "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[深度學習系列之十(3) 實例分割篇：SOLOv2(2023b更新)](https://youtu.be/CqLdOKNson8?si=5f3Mb5LEDXy6i71X "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[深度學習系列之十(4) 物件偵測篇：YOLOX (五行Inference)](https://youtu.be/U-9MKdPHaac?si=sLU0Om4EG59St8dL "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[深度學習系列之十(5) 物件偵測篇：SOLOv2 (五行Inference)](https://youtu.be/E0wst5Dxs2U?si=ld9T8RNAizuTb_IS "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[深度學習系列之十(6) 實例分割篇：HRNet](https://youtu.be/NEPINAMEjpM?si=lfRjnfV8fT2AuP4a "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Deep Learning Image Text Detection & OCR & Barcode <a name="ImageText_OCR_Barcode"/>
-此區域會針對在工業界上常使用到的一些功能來做介紹，從影像上抓出文字區域、字元辨識(OCR)、與一維二維條碼辨識。
-  
-In this section, we will focus on introducing some commonly used functionalities in the industrial sector. We will cover topics such as extracting text regions from images, character recognition (OCR), and one-dimensional and two-dimensional barcode recognition.
-  
-**深度學習影像專家：文字區域＆字元(OCR)＆條碼辨識:**
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB深度學習之十一(1)文字辨識(Text Detection)](https://youtu.be/fOl85S2SSw0 "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之十一(2)New OCR(DL Base)](https://youtu.be/bZVOEviIcQE "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-|[MATLAB深度學習之十一(3)Barcode檢測(一維與二維條碼)]( "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-    
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Deep Learning Image Anomaly Detection <a name="ImageText_OCR_Barcode"/>
-此篇章中會介紹如何在MATLAB中使用這最新的異常偵測模型，會介紹針對在影像上、訊號與最後數值上的異常偵測算法，尤其是在影像上的異常偵測模型，
-都是2021~2023附近出的論文，算是蠻新穎且實用的演算法。
-  
-In this chapter, we will explore how to use the latest anomaly detection models in MATLAB. We will introduce anomaly detection algorithms for images, signals, and numerical data. Particularly, we will focus on anomaly detection models for images, which are based on cutting-edge research papers published around 2021 to 2023. These algorithms are novel and practical, making them highly relevant for various applications.
-  
-**深度學習影像進階：異常偵測(Anomaly Detection):**
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB深度學習之十二(1)異常偵測(Anomaly Detection)]( "link")|[DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect "link")|
-  
-| Blog文章標題 |
-|------|
-|[AOI_Lab (MATLAB Visual Inspection )(上)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8A-524cd52fc939 "link")|
-|[AOI_Lab (MATLAB Visual Inspection )(下)](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af "link")|
-
-  
-  
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-
-------
-  
-## Deep Learning Tracking amd Pose Estimation<a name="DeepLearning"/>
-  
-深度追蹤演算法與姿體偵測。
-
-**深度學習影像進階：Deep Tracking :** 
-| Youtube影片標題 ||
-|------|:---:|
-|[Tracking and Motion Estimation(1)](https://youtu.be/tzncUlQfgMs?si=KbrGyPUZKfMRP48M"link")||
-|[Tracking and Motion Estimation(2)](https://youtu.be/xENfpLsNwh0?si=yLz8jnZ8pISY4Wva"link")||
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-
-## Deep Learning Numerical & Signal & Audio <a name="DL_Num"/>
-   
-基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。  
-  
-**深度學習數值：Numerical & Signal & Audio:**  
-| 文章 | GiuHub專案 |
-|------|:---:|
-|[深度學習數值：DL_Num]( https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%95%B8%E5%80%BC-dl-num-a838c1e41ad2 "link")|[DL_Num](https://github.com/MoonUsagi/DL_Num "link")|
-
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-
-------
-
-## Deep Learning Large Language Model <a name="DL_LLM"/>
-   
-基於在深度學習的LLM使用方式　
-　　
-**深度學習擴充：LLM:**  
-| 項目 | 類型 |
-|------|:---:|
-|[MATLAB深度學習之十三：LLMs with MATLAB]( https://youtu.be/reYhAnXMKRU?si=ltyGintjB16XidnD "link")|[文章]|
-|[MATLAB中使用LLM，在ChatGPT詢問MATLAB]( https://youtu.be/ANYWtf1olYg?si=gudbGp6p7wE0uPHu "link")|[文章]|
-|[Large Language Models (LLMs) with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab "link")|[Github專案]|
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-
-------
-
-## Deep Learning Exten <a name="DL_Exten"/>
-   
-基於在深度學習的影像以外的領域的範例統整與介紹，以及深入在深度學習中各種進階操作方式。　　
-　　
-**深度學習擴充：DL_Exten:**  
-| 項目 | 類型 |
-|------|:---:|
-|[深度學習擴充：DL_Exten](https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%93%B4%E5%85%85-dl-exten-70f7f559a443)|[文章]|
-|[深度學習系列專案項目 - DL Exten]( https://youtu.be/XQqgnzd3KRs?si=x06bG3AtCfASd9nO "link")|[影片]|
-|[DL_Exten](https://github.com/MoonUsagi/DL_Exten "link")|[Github專案]|
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-
-------
-  
-  
-## 深度學習影像進階：未來更新內容 <a name="Future Update"/>
-  
-強化學習RL_Lab系列
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## MATLAB Integration with Python <a name="MATLAB_Integration_with_python"/>
-**MATLAB中寫Python，與TensorFlow,PyTorch,ONNX整合:** 
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB Integration(1) - 深度學習模型 TensorFlow/PyTorch/ONNX整合](https://www.youtube.com/watch?v=zlpyDuOIsLs "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-|[MATLAB Integration(2) - 在MATLAB中使用Python Code](https://www.youtube.com/watch?v=KBsTRPpvo3M "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-|[MATLAB Integration(3) - 在Python中使用MATLAB](https://www.youtube.com/watch?v=2H57hKkQevE "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-| Blog文章標題 |
-|[實現整合系列第一期:MATLAB中寫Python，與TensorFlow,PyTorch整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610 "link")|
-
-
-**MATLAB 與 Python 整合實現(中文圈最新最強教材):**  
-  
-以下為Tim所撰寫的MATLAB與Python整合相關的教材與教學，內容包含了在MATLAB與Python中的雙向溝通，以及實現多語言與環境的整合，例如Python與Simulink、如何MATLAB中執行Python後，在VS Code中debug python code等等.....  
-  
-| 專案(教材&電子書)|
-|------|
-|[MATLAB 與 Python 整合實現(create by Tim )](https://github.com/sitdownplz/MATLAB_Integration_Python "link")|
-  
-  
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Integration with Software(Compiler系列 & Coder系列) <a name="MATLAB_Integration_with_Software"/>  
-**整體框架介紹:** 
-
-| Blog文章標題 |
-|------|
-|[MATLAB實現整合系列：框架介紹](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%B4%B9-93dfaa228a73 "link")|
-  
-**Compiler & Compiler SDK:** 
-
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB Integration(4) - Compiler](https://youtu.be/CphzcqYFVH4?si=q6X3rYqMyzhEhwJL "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-|[MATLAB Integration(5) - Compiler SDK(上)](https://youtu.be/g3l5AXdRfPE?si=OQcnzLDb9nSpv4J1 "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-|[MATLAB Integration(6) - Compiler SDK(下)](https://youtu.be/P0W8z_LtQzM?si=DLoMcJzjmDgXZdDw "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-| Blog文章標題 |
-|[MATLAB實現整合系列：Compiler](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E6%9C%9F-compiler-1c8ecc951ab0 "link")|
-|[MATLAB實現整合系列：Compiler SDK(上)C#.NET](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8A-c-net%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8Bc-ecbc1cdca022 "link")|
-|[MATLAB實現整合系列：Compiler SDK(下)C++環境為例](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8B-c-%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8B-3ff0339077a3 "link")|
-  
-  
-**MATLAB Coder & GPU Coder:** 
-
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB Integration(７) - GPU Coder(上)](https://youtu.be/dNSdl5UEucw?si=YoLBy14JrvGa4GCl "link")|[@Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation "link")|
-| Blog文章標題 |
-|[MATLAB實現整合系列第四期：GPU Coder（上）](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E5%9B%9B%E6%9C%9F-gpu-coder-%E4%B8%8A-5494492adcd4 "link")|
-
-  
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-  
-------
-  
-## MATLAB Integration with Hardware <a name="MATLAB_Integration_with_hardware"/>
-
-**MATLAB Integration With Hardware:** 
-| Youtube影片標題 | GiuHub專案 |
-|------|:---:|
-|[MATLAB GPU Coder YOLO 口罩偵測實現於Jetson Nano](https://www.youtube.com/watch?v=uBWmpXLGyXE "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
-|[Human Pose Estimation(with Jetson Nano)](https://www.youtube.com/watch?v=_ACXj8rrBtw "link")|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
-
-| 使用工具 | 硬體 | GiuHub專案 |
-|------|------|------|
-|GPU Coder|Jetson Nano|[MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano "link")|
-|GPU Coder|Jetson Nano|[Jetson_Nano_resnet50](https://github.com/MoonUsagi/Jetson_Nano_resnet50)|
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map)
-
-------
-  
-## MATLAB Integration With Hardware：Future Update <a name="Future Update"/>
-
- 1.Integration With ARM 
-
- 2.Integration With FPGA 
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## MATLAB Image APPs <a name="MATLAB_Image_APPs"/>
-
-**影像應用系列:** 
-| Youtube影片標題 |系列|
-|------|:---:|
-|[2023a更新！影像標記(Image Labeler)  ](https://youtu.be/jghZbfJo3j8 "link") |MATLAB三分鐘不用寫Code系列|
-|[2023a更新！影像分析(Image Region Analyzer)  ](https://youtu.be/FsArD6K0ong "link") |MATLAB三分鐘不用寫Code系列|
-|[2023a更新！色彩切割(2)相機擷取(Color Thresholder APP)  ](https://youtu.be/vJDSWuhr40k "link") |MATLAB三分鐘不用寫Code系列|
-|[2023a更新！色彩切割(Color Thresholder APP) ](https://youtu.be/6ihlgcRin1A "link") |MATLAB三分鐘不用寫Code系列|
-|[2023a更新！影像切割(Image Segmenter) ](https://youtu.be/4QKOlREl8ZI "link") |MATLAB三分鐘不用寫Code系列|
-|[色彩切割(Color Thresholder) ](https://youtu.be/vPB9dl8lMvw "link") |MATLAB三分鐘不用寫Code系列|
-|[影像切割(Image Segmenter)](https://youtu.be/kumg3rujj3U "link") |MATLAB三分鐘不用寫Code系列|
-|[影像分析( Image_Region_Analyzer)](https://youtu.be/4T-zSLD8Eos "link") |MATLAB三分鐘不用寫Code系列|
-|[影像校正(Registration_Estimator)](https://youtu.be/dIP6juyMYFQ "link") |MATLAB三分鐘不用寫Code系列|
-|[影像標記(Image Labeler) ](https://youtu.be/Tq7f_6NOjEU "link") |MATLAB三分鐘不用寫Code系列|
-|[AOI連接相機影像截取工具(Image acquisition)](https://youtu.be/OSY7CdH4w2g "link")]|MATLAB三分鐘不用寫Code系列|
-|[(進階參數設定)AOI連接相機影像截取工具(Image Acquisition)](https://youtu.be/b_UgBJZC4XY "link") |MATLAB三分鐘不用寫Code系列|
-|[影像批次產生工具(Image Batch Processor)](https://youtu.be/RSI86ZFnzsI "link") |MATLAB三分鐘不用寫Code系列|
-|[高光譜影像(Hyperspectral Viewer)](https://youtu.be/vaMoSDypyX4 "link") |MATLAB三分鐘不用寫Code系列|
-
-
-
-**生醫系列:** 
-| Youtube影片標題 |系列|
-|------|:---:|
-|[生醫影像檢視(Volume Viewer)](https://youtu.be/9gALqxyHKsI "link") |MATLAB三分鐘不用寫Code系列|
-|[生醫影像切割(Volume Segmenter)](https://youtu.be/0KZGW29FuBA "link") |MATLAB三分鐘不用寫Code系列|
-|[醫學影像標記工具(Medical Image Labeler)](https://youtu.be/Obj8I07mXuY "link")|MATLAB三分鐘不用寫Code系列|
-
-**Lidar光達:** 
-| Youtube影片標題 |系列|
-|------|:---:|
-|[點雲檢視工具(Lidar Viewer)](https://youtu.be/87VnsitFVCI "link") |MATLAB三分鐘不用寫Code系列|
-|[Lidar校正(Lidar Camera Calibrator)](https://youtu.be/_WabP7g21kM "link") |MATLAB三分鐘不用寫Code系列|
-
-**相機校正:** 
-| Youtube影片標題 |系列|
-|------|:---:|
-|[單眼相機校正(Camera Calibrator)](https://youtu.be/U6JfjgITDrs "link")|MATLAB三分鐘不用寫Code系列|
-|[雙眼相機校正(Stereo Camera Calibrator)](https://youtu.be/wRp18LrY_5k "link") |MATLAB三分鐘不用寫Code系列|
-|[Lidar校正(Lidar Camera Calibrator)](https://youtu.be/_WabP7g21kM "link") |MATLAB三分鐘不用寫Code系列|
-
-**標記(Labeler):** 
-| Youtube影片標題 |系列|
-|------|:---:|
-|[2023a更新！影像標記(Image Labeler)  ](https://youtu.be/jghZbfJo3j8 "link") |MATLAB三分鐘不用寫Code系列|
-|[影像標記(Image Labeler) ](https://youtu.be/Tq7f_6NOjEU "link") |MATLAB三分鐘不用寫Code系列|
-|[光達標記工具(Lidar Labeler)](https://youtu.be/CurDmG9rYbI "link")|MATLAB三分鐘不用寫Code系列|
-|[醫學影像標記工具(Medical Image Labeler)](https://youtu.be/Obj8I07mXuY "link")|MATLAB三分鐘不用寫Code系列|
-
-**Demo:** 
-| Youtube影片標題 |系列|
-|------|:---:|
-|[GPU Coder加速 Demo](https://youtu.be/MCWKbw5cf1c?si=KY5dmT7NoN1k-B4Q "link") |Demo|
-|[vSLAM Demo](https://youtu.be/bQuqNo13qPg?si=K4ZoYB6NDyJ-HOkJ "link") |Demo|
-|[DeepSORT Demo](https://youtu.be/obj5VIQg5DU?si=8PiazwcDedwvR30n "link")|Demo|
-
-  
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## MATLAB Deep Leanring APPs <a name="MATLAB_DeepLearning_APPs"/>
-| Youtube影片標題 |系列|
-|------|:---:|
-|[強化學習(Reinforcement Learning)](https://youtu.be/4G2LHFJvR2E "link") |MATLAB三分鐘不用寫Code系列|
-|[2022a更新！深度學習(Deep Network Designer)](https://youtu.be/8nr25Gaz3Ss "link") |MATLAB三分鐘不用寫Code系列|
-|[2022a更新！機器學習(Classification Learner)](https://youtu.be/Pe6CU9Jl0Kw "link") |MATLAB三分鐘不用寫Code系列|
-|[深度學習超參數搜索(Experiment Manager)](https://youtu.be/NpJwoGspASg "link") |MATLAB三分鐘不用寫Code系列|
-|[GPU使用指南](https://youtu.be/jPbflqw_aww "link") |MATLAB三分鐘不用寫Code系列|
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
-  
-## Customized APPs <a name="MATLAB_Customized_APPs"/>
-| GiuHub專案 |內容介紹|
-|------|-----|
-|[VoiceChat Bunny Robot](https://www.mathworks.com/matlabcentral/fileexchange/163996-voicechat-bunny-robot "link")|語音合成&LLM|
-|[ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP "link")|不用寫Code實現物件偵測演算法|
-|[AOI_Layout](https://github.com/MoonUsagi/AIO_Layout "link")|不用寫Code實現影像演算法|
-|[Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP "link")|遷移式風格轉換|
-|[Image_Captioning](https://github.com/MoonUsagi/Image_Captioning_APP "link")|影像文字輸出模型|
-|[Image_Inpainting](https://github.com/MoonUsagi/Image_Inpainting "link")|影像修補功能|
-
-
-[Back to top](https://github.com/MoonUsagi/AI_Images_Map#AI_Images_Map) 
-
-------
+### 快速入門
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| 安裝預訓練深度學習模型 | [觀看影片](https://youtu.be/ZPCNmTxV5K8) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 使用少量程式碼完成影像分類 | [觀看影片](https://www.youtube.com/watch?v=fjjnGmvZxc0) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 使用 Transfer Learning App | [觀看影片](https://youtu.be/7qlJgBoSnKA) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 使用 Deep Network Designer | [觀看影片](https://youtu.be/AQw3DC7FK1Y) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+
+### 分類與遷移學習
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| 影像分類（一） | [觀看影片](https://youtu.be/5kvmg2uCpdE) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 影像分類（二） | [觀看影片](https://youtu.be/nNCa8rU5Jms) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 影像分類（三） | [觀看影片](https://youtu.be/Yg8hlyjPO5Q) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 遷移學習（一） | [觀看影片](https://youtu.be/v0ZwOiQhpi4) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 遷移學習（二） | [觀看影片](https://youtu.be/YUY2KhgGWuw) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 遷移學習（三） | [觀看影片](https://youtu.be/s8JfMbs_CSw) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+
+### 模型視覺化與可解釋 AI
+
+這些方法可協助判斷模型在分類時關注的影像區域，並用於除錯、偏誤檢查與模型驗證。
+
+| 方法 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| 網路與特徵視覺化 | [觀看影片](https://youtu.be/XpnCzsBvMQQ) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| DeepDream | [觀看影片](https://youtu.be/zDbv-fNAvn4) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| Grad-CAM | [觀看影片](https://youtu.be/30t-ARZNDjA) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| Gradient Attribution | [觀看影片](https://youtu.be/cliegS5uZuc) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| LIME | [觀看影片](https://youtu.be/SsUwRYGRt7E) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| Occlusion Sensitivity | [觀看影片](https://youtu.be/AdV-Ii0hfxM) | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+
+[回到目錄](#目錄)
+
+---
+
+## 物件偵測
+
+物件偵測同時預測物件類別與位置。本章涵蓋影像標註、資料準備、模型訓練、雲端運算、推論與部署，並比較 Faster R-CNN、SSD、YOLOv2、YOLOv3、YOLOv4 與 YOLOX 等模型。
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| 物件偵測入門（一） | [觀看影片](https://youtu.be/ISzFfL-W9AE) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| 物件偵測入門（二）：YOLOX | [觀看影片](https://youtu.be/d1IJS6CYvQw?si=dvk3G71ll9L3Qoso) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| RabbitDetect：資料準備 | [觀看影片](https://youtu.be/6gHTFQeD8Xw) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| RabbitDetect：標註與訓練流程 | [觀看影片](https://youtu.be/g9S0_VSfkFQ) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| Faster R-CNN | [觀看影片](https://youtu.be/uXkvQup0pe0) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| SSD | [觀看影片](https://youtu.be/VxssEJBObas) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| YOLOv2 | [觀看影片](https://youtu.be/VC5pRCv_QCo) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| YOLOv3 | [觀看影片](https://youtu.be/CT8diNnOkXs) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| YOLOv4 | [觀看影片](https://youtu.be/glXUnqScaGc) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| YOLOv4 延伸實作 | [觀看影片](https://youtu.be/Wzes49qzwCM) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| YOLOX | [觀看影片](https://youtu.be/zEJurTM1PUI?si=AS9Qav1JjCrh5Rlb) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+
+### 延伸資源
+
+| 主題 | 資源 |
+| --- | --- |
+| 在 MATLAB 中使用 YOLOv4 | [觀看影片](https://youtu.be/hJrZg94y8vA) |
+| 使用 TWCC 雲端資源訓練 AI 模型 | [觀看影片](https://youtu.be/MZcEBpZFVwg) |
+| 透過 Object Detection App 使用 YOLOv4 | [觀看影片](https://youtu.be/I3cWtTl3b3A) |
+| YOLOX 推論 | [觀看影片](https://youtu.be/TDf8SHRFrCU?si=ik0x6Wb3dwT4jamz) |
+| YOLOX 與 MATLAB R2023b | [閱讀文章](https://medium.com/@FredLiu_/yolox-matlab-2023b-1987f2b3aa05) |
+
+[回到目錄](#目錄)
+
+---
+
+## 語意分割
+
+語意分割會為每個像素預測類別，適合表面缺陷、醫療影像、道路場景與遙測影像等任務。相較於物件偵測，像素級標註的成本與運算需求通常更高。本章以 DeepLabv3+ 的資料準備、訓練與推論流程為主。
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| RabbitDetect 語意分割：資料與標註 | [觀看影片](https://youtu.be/ZKXTZ0RCYWg) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| RabbitDetect 語意分割：訓練流程 | [觀看影片](https://youtu.be/11DiP35W-dg) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| DeepLabv3+（上） | [觀看影片](https://youtu.be/v02Np1_q08o) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| DeepLabv3+（下） | [觀看影片](https://youtu.be/LzbrKeMOnDY) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+
+[回到目錄](#目錄)
+
+---
+
+## 實例分割
+
+實例分割不只區分像素類別，也會識別同類別中的不同物件個體。本章以 Mask R-CNN 為核心，介紹推論、標註、資料準備與模型訓練。
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| Mask R-CNN 推論 | [觀看影片](https://www.youtube.com/watch?v=EG78LZkvREM) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| Mask R-CNN 資料準備與推論 | [觀看影片](https://youtu.be/sPa4UHyq65Y) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| Mask R-CNN 標註與訓練流程 | [觀看影片](https://youtu.be/6nNKu2qjWcQ) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| Mask R-CNN 訓練 | [觀看影片](https://youtu.be/ehov2aTgesU) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| Mask R-CNN 訓練結果 | [觀看影片](https://youtu.be/_lNHy4jLp00) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+
+[回到目錄](#目錄)
+
+---
+
+## 模型推論與展示
+
+本節集中展示不同模型的推論流程，適合先確認模型輸入、輸出與執行結果，再回頭理解訓練細節。
+
+| 模型或主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| YOLOX：R2023b 功能更新 | [觀看影片](https://youtu.be/KBQc0f5fH58?si=T3RVVFImWaJEuZkB) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| YOLOX：推論展示 | [觀看影片](https://youtu.be/TDf8SHRFrCU?si=GXv1zqN8hOqPBPe3) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| SOLOv2：R2023b 功能更新 | [觀看影片](https://youtu.be/CqLdOKNson8?si=5f3Mb5LEDXy6i71X) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| YOLOX：單張影像推論 | [觀看影片](https://youtu.be/U-9MKdPHaac?si=sLU0Om4EG59St8dL) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| SOLOv2：單張影像推論 | [觀看影片](https://youtu.be/E0wst5Dxs2U?si=ld9T8RNAizuTb_IS) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| HRNet 推論 | [觀看影片](https://youtu.be/NEPINAMEjpM?si=lfRjnfV8fT2AuP4a) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+
+[回到目錄](#目錄)
+
+---
+
+## 文字偵測、OCR 與條碼
+
+這些技術常見於工業自動化、文件處理、產品追溯與品質檢測。本節涵蓋文字區域偵測、深度學習式 OCR，以及一維與二維條碼辨識。
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| Text Detection | [觀看影片](https://youtu.be/fOl85S2SSw0) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| 深度學習式 OCR | [觀看影片](https://youtu.be/bZVOEviIcQE) | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| Barcode 辨識 | 待補 | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+
+[回到目錄](#目錄)
+
+---
+
+## 異常偵測與自動光學檢測
+
+異常偵測適合缺陷樣本稀少、類別不平衡，或無法事先列舉所有瑕疵型態的情境。相關方法可應用於影像、訊號與數值資料；本節聚焦工業視覺檢測與 AOI 實作。
+
+| 類型 | 資源 |
+| --- | --- |
+| 範例程式 | [AOI_Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main) |
+| 文章 | [AOI Lab：MATLAB Visual Inspection（上）](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8A-524cd52fc939) |
+| 文章 | [AOI Lab：MATLAB Visual Inspection（下）](https://medium.com/@FredLiu_/aoi-lab-matlab-visual-inspection-%E4%B8%8B-5d35f7a5a0af) |
+
+[回到目錄](#目錄)
+
+---
+
+## 追蹤、動作估測與姿態估測
+
+本節介紹影像序列中的目標追蹤與運動估測，並延伸至人體姿態估測與即時裝置部署。
+
+| 主題 | 資源 |
+| --- | --- |
+| Tracking and Motion Estimation（一） | [觀看影片](https://youtu.be/tzncUlQfgMs?si=KbrGyPUZKfMRP48M) |
+| Tracking and Motion Estimation（二） | [觀看影片](https://youtu.be/xENfpLsNwh0?si=yLz8jnZ8pISY4Wva) |
+| Human Pose Estimation with Jetson Nano | [觀看影片](https://www.youtube.com/watch?v=_ACXj8rrBtw) |
+
+[回到目錄](#目錄)
+
+---
+
+## 數值、訊號與音訊
+
+深度學習不限於影像資料，也可用於時間序列、感測器訊號、音訊與一般數值資料。本節提供對應的教學文章與程式範例。
+
+| 類型 | 資源 |
+| --- | --- |
+| 教學文章 | [深度學習數值：DL Num](https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%95%B8%E5%80%BC-dl-num-a838c1e41ad2) |
+| 範例程式 | [DL_Num](https://github.com/MoonUsagi/DL_Num) |
+
+[回到目錄](#目錄)
+
+---
+
+## 大型語言模型
+
+介紹如何在 MATLAB 工作流程中使用大型語言模型（LLM），包含開源範例，以及 MATLAB 與 ChatGPT 的互動情境。
+
+| 類型 | 資源 |
+| --- | --- |
+| 影片 | [LLMs with MATLAB](https://youtu.be/reYhAnXMKRU?si=ltyGintjB16XidnD) |
+| 影片 | [在 ChatGPT 中使用 MATLAB](https://youtu.be/ANYWtf1olYg?si=gudbGp6p7wE0uPHu) |
+| 範例程式 | [Large Language Models with MATLAB](https://github.com/matlab-deep-learning/llms-with-matlab) |
+
+[回到目錄](#目錄)
+
+---
+
+## 深度學習延伸主題
+
+收錄不屬於單一任務類型的進階範例與延伸學習材料。
+
+| 類型 | 資源 |
+| --- | --- |
+| 教學文章 | [深度學習擴充：DL Exten](https://medium.com/@FredLiu_/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%93%B4%E5%85%85-dl-exten-70f7f559a443) |
+| 影片 | [DL Exten 專案介紹](https://youtu.be/XQqgnzd3KRs?si=x06bG3AtCfASd9nO) |
+| 範例程式 | [DL_Exten](https://github.com/MoonUsagi/DL_Exten) |
+
+[回到目錄](#目錄)
+
+---
+
+## MATLAB 與 Python 整合
+
+MATLAB 與 Python 可以雙向呼叫，也能交換 TensorFlow、PyTorch 與 ONNX 模型。這類整合適合沿用既有 Python 生態，同時使用 MATLAB 進行資料處理、視覺化、演算法驗證或部署。
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| TensorFlow、PyTorch 與 ONNX 模型整合 | [觀看影片](https://www.youtube.com/watch?v=zlpyDuOIsLs) | [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation) |
+| 在 MATLAB 中執行 Python | [觀看影片](https://www.youtube.com/watch?v=KBsTRPpvo3M) | [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation) |
+| 在 Python 中呼叫 MATLAB | [觀看影片](https://www.youtube.com/watch?v=2H57hKkQevE) | [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation) |
+
+延伸閱讀：
+
+- [MATLAB 與 Python、TensorFlow、PyTorch 整合](https://medium.com/@FredLiu_/%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%9C%9F-matlab%E4%B8%AD%E5%AF%ABpython-%E8%88%87tensorflow-pytorch%E6%95%B4%E5%90%88-40b962bdc610)
+- [MATLAB_Integration_Python（Tim）](https://github.com/sitdownplz/MATLAB_Integration_Python)
+
+[回到目錄](#目錄)
+
+---
+
+## 軟體整合與程式碼產生
+
+MATLAB 提供多種部署方式：
+
+- **MATLAB Compiler**：將 MATLAB 應用程式封裝給沒有 MATLAB 的使用者執行。
+- **MATLAB Compiler SDK**：建立可由 C/C++、.NET、Java 或 Python 等環境呼叫的元件。
+- **MATLAB Coder**：從 MATLAB 演算法產生 C/C++ 程式碼。
+- **GPU Coder**：產生可在 NVIDIA GPU 上執行的 CUDA 程式碼。
+
+### Compiler 與 Compiler SDK
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| MATLAB Compiler | [觀看影片](https://youtu.be/CphzcqYFVH4?si=q6X3rYqMyzhEhwJL) | [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation) |
+| MATLAB Compiler SDK（上） | [觀看影片](https://youtu.be/g3l5AXdRfPE?si=OQcnzLDb9nSpv4J1) | [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation) |
+| MATLAB Compiler SDK（下） | [觀看影片](https://youtu.be/P0W8z_LtQzM?si=DLoMcJzjmDgXZdDw) | [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation) |
+
+延伸閱讀：
+
+- [MATLAB 軟體整合架構介紹](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%B4%B9-93dfaa228a73)
+- [MATLAB Compiler](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E6%9C%9F-compiler-1c8ecc951ab0)
+- [MATLAB Compiler SDK：C#/.NET](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8A-c-net%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8Bc-ecbc1cdca022)
+- [MATLAB Compiler SDK：C++](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E6%9C%9F-compiler-sdk-%E4%B8%8B-c-%E7%92%B0%E5%A2%83%E7%82%BA%E4%BE%8B-3ff0339077a3)
+
+### GPU Coder
+
+| 類型 | 資源 |
+| --- | --- |
+| 影片 | [GPU Coder 教學](https://youtu.be/dNSdl5UEucw?si=YoLBy14JrvGa4GCl) |
+| 文章 | [MATLAB GPU Coder（上）](https://medium.com/@FredLiu_/matlab%E5%AF%A6%E7%8F%BE%E6%95%B4%E5%90%88%E7%B3%BB%E5%88%97%E7%AC%AC%E5%9B%9B%E6%9C%9F-gpu-coder-%E4%B8%8A-5494492adcd4) |
+
+[回到目錄](#目錄)
+
+---
+
+## 硬體整合與部署
+
+本節聚焦將 MATLAB AI 模型部署到 NVIDIA Jetson Nano，並保留 ARM 與 FPGA 的後續擴充方向。
+
+| 主題 | 教學影片 | 範例程式 |
+| --- | --- | --- |
+| 使用 GPU Coder 將 YOLO 部署至 Jetson Nano | [觀看影片](https://www.youtube.com/watch?v=uBWmpXLGyXE) | [MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano) |
+| Jetson Nano 人體姿態估測 | [觀看影片](https://www.youtube.com/watch?v=_ACXj8rrBtw) | [MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano) |
+| ResNet-50 on Jetson Nano | — | [Jetson_Nano_resnet50](https://github.com/MoonUsagi/Jetson_Nano_resnet50) |
+
+[回到目錄](#目錄)
+
+---
+
+## 低程式碼與圖形化 App
+
+MATLAB App 可協助使用者以視覺化介面完成資料標註、影像分割、相機校正、模型設計與實驗管理。多數 App 也能產生 MATLAB 程式碼，便於把互動式流程轉成可重複執行的腳本。
+
+### 影像處理與電腦視覺 App
+
+| App 或主題 | 教學影片 |
+| --- | --- |
+| Image Labeler（R2023a 更新） | [觀看影片](https://youtu.be/jghZbfJo3j8) |
+| Image Region Analyzer（R2023a 更新） | [觀看影片](https://youtu.be/FsArD6K0ong) |
+| Color Thresholder（一） | [觀看影片](https://youtu.be/vJDSWuhr40k) |
+| Color Thresholder（二） | [觀看影片](https://youtu.be/6ihlgcRin1A) |
+| Image Segmenter（R2023a 更新） | [觀看影片](https://youtu.be/4QKOlREl8ZI) |
+| Color Thresholder | [觀看影片](https://youtu.be/vPB9dl8lMvw) |
+| Image Segmenter | [觀看影片](https://youtu.be/kumg3rujj3U) |
+| Image Region Analyzer | [觀看影片](https://youtu.be/4T-zSLD8Eos) |
+| Registration Estimator | [觀看影片](https://youtu.be/dIP6juyMYFQ) |
+| Image Labeler | [觀看影片](https://youtu.be/Tq7f_6NOjEU) |
+| Image Acquisition | [觀看影片](https://youtu.be/OSY7CdH4w2g) |
+| Image Acquisition 延伸教學 | [觀看影片](https://youtu.be/b_UgBJZC4XY) |
+| Image Batch Processor | [觀看影片](https://youtu.be/RSI86ZFnzsI) |
+| Hyperspectral Viewer | [觀看影片](https://youtu.be/vaMoSDypyX4) |
+
+### 3D 與醫療影像 App
+
+| App | 教學影片 |
+| --- | --- |
+| Volume Viewer | [觀看影片](https://youtu.be/9gALqxyHKsI) |
+| Volume Segmenter | [觀看影片](https://youtu.be/0KZGW29FuBA) |
+| Medical Image Labeler | [觀看影片](https://youtu.be/Obj8I07mXuY) |
+
+### LiDAR 與相機校正 App
+
+| App | 教學影片 |
+| --- | --- |
+| Lidar Viewer | [觀看影片](https://youtu.be/87VnsitFVCI) |
+| Lidar Camera Calibrator | [觀看影片](https://youtu.be/_WabP7g21kM) |
+| Camera Calibrator | [觀看影片](https://youtu.be/U6JfjgITDrs) |
+| Stereo Camera Calibrator | [觀看影片](https://youtu.be/wRp18LrY_5k) |
+| Lidar Labeler | [觀看影片](https://youtu.be/CurDmG9rYbI) |
+
+### AI 與深度學習 App
+
+| App 或主題 | 教學影片 |
+| --- | --- |
+| Reinforcement Learning Designer | [觀看影片](https://youtu.be/4G2LHFJvR2E) |
+| Deep Network Designer（R2022a 更新） | [觀看影片](https://youtu.be/8nr25Gaz3Ss) |
+| Classification Learner（R2022a 更新） | [觀看影片](https://youtu.be/Pe6CU9Jl0Kw) |
+| Experiment Manager | [觀看影片](https://youtu.be/NpJwoGspASg) |
+| GPU 運算 | [觀看影片](https://youtu.be/jPbflqw_aww) |
+
+### 展示範例
+
+| Demo | 影片 |
+| --- | --- |
+| GPU Coder | [觀看影片](https://youtu.be/MCWKbw5cf1c?si=KY5dmT7NoN1k-B4Q) |
+| vSLAM | [觀看影片](https://youtu.be/bQuqNo13qPg?si=K4ZoYB6NDyJ-HOkJ) |
+| DeepSORT | [觀看影片](https://youtu.be/obj5VIQg5DU?si=8PiazwcDedwvR30n) |
+
+[回到目錄](#目錄)
+
+---
+
+## 自製 App 與延伸專案
+
+| 專案 | 說明 |
+| --- | --- |
+| [VoiceChat Bunny Robot](https://www.mathworks.com/matlabcentral/fileexchange/163996-voicechat-bunny-robot) | 語音互動與大型語言模型應用 |
+| [ObjectDetectionAPP](https://github.com/MoonUsagi/ObjectDetectionAPP) | 以圖形化介面執行物件偵測 |
+| [AOI_Layout](https://github.com/MoonUsagi/AIO_Layout) | 自動光學檢測介面與工作流程 |
+| [Style_Transfer](https://github.com/MoonUsagi/Style_Transfer_APP) | 影像風格轉換 |
+| [Image_Captioning](https://github.com/MoonUsagi/Image_Captioning_APP) | 影像描述生成 |
+| [Image_Inpainting](https://github.com/MoonUsagi/Image_Inpainting) | 影像修補 |
+
+[回到目錄](#目錄)
+
+---
+
+## 相關程式碼專案
+
+| 領域 | 專案 |
+| --- | --- |
+| 影像處理與電腦視覺 | [IPCV_Lab](https://github.com/MoonUsagi/IPCV_Lab) |
+| AOI 與視覺檢測 | [AOI_Lab](https://github.com/MoonUsagi/AOI_Lab/tree/main) |
+| 影像分類 | [DL_Basic_Classificaiton](https://github.com/MoonUsagi/DL_Basic_Classificaiton) |
+| 物件偵測與影像分割 | [DL_Advanced_RabbitDetect](https://github.com/MoonUsagi/DL_Advanced_RabbitDetect) |
+| 深度學習延伸 | [DL_Exten](https://github.com/MoonUsagi/DL_Exten) |
+| 數值深度學習 | [DL_Num](https://github.com/MoonUsagi/DL_Num) |
+| 大型語言模型 | [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) |
+| MATLAB 與 Python 整合 | [Python_MATLAB_Intergation](https://github.com/MoonUsagi/Python_MATLAB_Intergation) |
+| Jetson Nano 部署 | [MATLAB_Mask_Detection-with-Jetoson-Nano](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano) |
+
+> [!TIP]
+> 部分既有儲存庫名稱包含歷史拼字，例如 `Classificaiton`、`Intergation` 與 `Jetoson`。為確保連結可用，本頁保留原始儲存庫名稱。
+
+## 未來規劃
+
+- 補充 Vision Transformer（ViT）與新版遷移學習流程
+- 增加 U-Net、SOLOv2、D-RISE 與影像異常偵測教學
+- 建立強化學習（RL）學習路徑與 `RL_Lab`
+- 增加 ARM 與 FPGA 部署案例
+- 持續整理新版本 MATLAB 的 AI 功能更新
+
+## 使用與貢獻
+
+如果你發現失效連結、版本差異或希望新增主題，歡迎提出 Issue 或 Pull Request。新增資源時，建議同時標註：
+
+- MATLAB 版本
+- 所需 Toolbox
+- 資源類型（影片、文章、程式碼或 App）
+- 任務類別與建議先備知識
+
+---
+
+如果這份學習地圖對你有幫助，歡迎收藏並分享給其他 MATLAB 與 AI 開發者。
